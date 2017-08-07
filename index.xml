@@ -1,0 +1,3201 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>
+Netlify: All-in-one platform for automating modern web projects
+</title>
+<link>https://www.netlify.com/</link>
+<description>
+Recent content on Netlify: All-in-one platform for automating modern web projects
+</description>
+<generator>Hugo -- gohugo.io</generator>
+<language>en-us</language>
+<lastBuildDate>Tue, 08 Aug 2017 20:34:06 +0000</lastBuildDate>
+<atom:link href="https://www.netlify.com/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Code for Good Week Wrap-Up Celebration</title>
+<link>
+https://www.netlify.com/blog/2017/08/08/code-for-good-week-wrap-up-celebration/
+</link>
+<pubDate>Tue, 08 Aug 2017 20:34:06 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/08/08/code-for-good-week-wrap-up-celebration/
+</guid>
+<description/>
+</item>
+<item>
+<title>The Rise of Design Systems</title>
+<link>
+https://www.netlify.com/blog/2017/08/01/the-rise-of-design-systems/
+</link>
+<pubDate>Tue, 01 Aug 2017 21:25:32 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/08/01/the-rise-of-design-systems/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I invite Rafael Conde, Kaelig Deloumeau-Prigent &amp; Craig Wattrus to share their experiences building design systems. They discuss why companies need to invest in design systems as they begin to feel the pain of scaling design principles. They also examine the benefits of design systems such as improving the designer on-boarding process, and caution against allowing designers to become complacent in design.
+</description>
+</item>
+<item>
+<title>Introducing Audit Log</title>
+<link>
+https://www.netlify.com/blog/2017/07/27/introducing-audit-log/
+</link>
+<pubDate>Thu, 27 Jul 2017 20:52:05 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/27/introducing-audit-log/
+</guid>
+<description>
+Last month we launched Teams which provides our customers a way to collaborate and manage their sites more efficiently. Today we are introducing a new feature within Teams: Audit Log. The Audit Log feature will be available for our Gold customers and above. Similar to our deploy list, Audit Log provides transparency into the different actions taken by team members on various team and site settings. For now we are tracking the following team action categories:
+</description>
+</item>
+<item>
+<title>GDISF Teaching Materials</title>
+<link>
+https://www.netlify.com/site-of-the-week/gdisf-teaching-materials/
+</link>
+<pubDate>Thu, 27 Jul 2017 15:33:59 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/gdisf-teaching-materials/
+</guid>
+<description/>
+</item>
+<item>
+<title>Net Neutrality Panel at JAMstack SF</title>
+<link>
+https://www.netlify.com/blog/2017/07/26/net-neutrality-panel-at-jamstack-sf/
+</link>
+<pubDate>Wed, 26 Jul 2017 17:09:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/26/net-neutrality-panel-at-jamstack-sf/
+</guid>
+<description>
+Net Neutrality Panel - JAMstack SF On July 18th, 2017 JAMstack SF gathered to listen to a panel on Net Neutrality followed by a Q&amp;A portion. This panel was moderated by Dominic Fracassa of The San Francisco Chronicle. The panelists include: • Chris Riley, Director of Public Policy at Mozilla • Jessica Ashooh,Director of Policy at Reddit • Toni Lane Casserly, Blockchain Faculty, SingularityU / Co-founder, DVBN Movement
+</description>
+</item>
+<item>
+<title>
+How to Integrate Netlify’s Form Handling in a React App
+</title>
+<link>
+https://www.netlify.com/blog/2017/07/20/how-to-integrate-netlifys-form-handling-in-a-react-app/
+</link>
+<pubDate>Thu, 20 Jul 2017 05:44:45 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/20/how-to-integrate-netlifys-form-handling-in-a-react-app/
+</guid>
+<description>
+Netlify comes with some handy, built-in features to process form submissions without having to write any server-side code. Form handling was historically a paid feature but, with the new super-powered free tier, it is now available for all sites for free. ?? If your site includes an HTML form, you can add a netlify attribute to the form tag and start receiving submissions right away (learn more in the form handling docs).
+</description>
+</item>
+<item>
+<title>HTTP/2 Server Push on Netlify</title>
+<link>
+https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/
+</link>
+<pubDate>Tue, 18 Jul 2017 20:52:05 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/18/http/2-server-push-on-netlify/
+</guid>
+<description>
+HTTP/2 server push is a performance optimization included in version 2 of the HTTP protocol. All secure traffic through Netlify’s servers has been using HTTP/2 since early 2016. It’s important to understand that HTTP/2 requires secure connectivity. Only websites with HTTPS enabled can take advantage of HTTP/2 and its performance optimizations, like server push and header compression. Currently, 60% of the traffic on Netlify uses HTTPS. HTTPS is enabled by default to all websites on Netlify that use our subdomains.
+</description>
+</item>
+<item>
+<title>Hanno</title>
+<link>https://www.netlify.com/site-of-the-week/hanno/</link>
+<pubDate>Tue, 18 Jul 2017 15:27:34 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/hanno/</guid>
+<description/>
+</item>
+<item>
+<title>Sponsoring Let's Encrypt</title>
+<link>
+https://www.netlify.com/blog/2017/07/07/sponsoring-lets-encrypt/
+</link>
+<pubDate>Fri, 07 Jul 2017 00:44:15 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/07/sponsoring-lets-encrypt/
+</guid>
+<description>
+All of us at Netlify are proud to announce that we are now listed as a major sponsor of Let&rsquo;s Encrypt. Let’s Encrypt is a free, automated, and open Certificate Authority (CA), run for the public’s benefit. It&rsquo;s the service that&rsquo;s been backing Netlify&rsquo;s free HTTPS on all custom domains since the start of 2016 and Let&rsquo;s Encrypt is increasingly becoming a key piece in the efforts to create a more secure and private web for us all.
+</description>
+</item>
+<item>
+<title>Standing Up for Net Neutrality</title>
+<link>
+https://www.netlify.com/blog/2017/07/07/standing-up-for-net-neutrality/
+</link>
+<pubDate>Fri, 07 Jul 2017 00:44:15 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/07/standing-up-for-net-neutrality/
+</guid>
+<description>
+In the US, July 4 is a day when we celebrate our independence from colonial rule. Many other countries around the world, including Canada, France, Belgium, Belarus, Egypt, Liberia, Mongolia, Columbia, Venezuela, Peru, Palau, and the Bahamas, also celebrate significant events for their independence in July. It seems fitting, then, that this year on July 12, we are called to action for what could be another important date for independence—this time, the independence of the web.
+</description>
+</item>
+<item>
+<title>
+Triggering deploys through webhooks and markdown magic
+</title>
+<link>
+https://www.netlify.com/blog/2017/07/06/triggering-deploys-through-webhooks-and-markdown-magic/
+</link>
+<pubDate>Thu, 06 Jul 2017 23:25:54 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/06/triggering-deploys-through-webhooks-and-markdown-magic/
+</guid>
+<description>
+A few months back we launched a new project to the public called the Netlify CMS. If you have not had a chance to check it out, I highly recommend it for your sites built with static site generators. This post not about the CMS, but about the infrastructure in place to keep the documentation site updated. The CMS project is open sourced and has a documentation folder structure that is colocated with the code in the repository.
+</description>
+</item>
+<item>
+<title>Contentful: An API-First CMS</title>
+<link>
+https://www.netlify.com/blog/2017/07/06/contentful-an-api-first-cms/
+</link>
+<pubDate>Thu, 06 Jul 2017 11:43:27 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/07/06/contentful-an-api-first-cms/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I invite Stefan Judis and Rouven Wessling to discuss Contentful, a developer friendly API-first CMS. They explain the benefits of decoupling your website’s content from its presentation, including better cross-platform support. With Contentful, you are completely free to write your site in the language you want, while the service takes care of the CMS backend, storing and versioning your data, and backing everything up.
+</description>
+</item>
+<item>
+<title>San Diego Open Data Portal</title>
+<link>
+https://www.netlify.com/site-of-the-week/san-diego-open-data-portal/
+</link>
+<pubDate>Mon, 03 Jul 2017 15:07:15 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/san-diego-open-data-portal/
+</guid>
+<description/>
+</item>
+<item>
+<title>
+Introducing Teams, New Features and an Update to Our Plans
+</title>
+<link>
+https://www.netlify.com/blog/2017/06/28/introducing-teams-new-features-and-an-update-to-our-plans/
+</link>
+<pubDate>Wed, 28 Jun 2017 00:01:08 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/28/introducing-teams-new-features-and-an-update-to-our-plans/
+</guid>
+<description>
+One of the key things we&rsquo;ve learned at Netlify is how empowering it can be for developers when they are enabled to find ways to extend their Git workflow and better accommodate the use of modern build tools. Today we&rsquo;re introducing a series of changes we believe makes Netlify even more valuable for teams and companies. In addition to exciting new features, we’re making our free tier far more useful and permissive for solo developers, open source projects, and companies building production-quality websites.
+</description>
+</item>
+<item>
+<title>The Out Of Box Search Experience</title>
+<link>
+https://www.netlify.com/blog/2017/06/27/the-out-of-box-search-experience/
+</link>
+<pubDate>Tue, 27 Jun 2017 10:35:08 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/27/the-out-of-box-search-experience/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I invite Vincent Voyer and Emily Hayman to discuss Algolia, a hosted search as a service. Emily reveals that Algolia’s key differentiator is performance, both in terms of indexing and querying, as well as configurability. They also discuss Instant Search, an easy to use UI library for building a great search interface.
+</description>
+</item>
+<item>
+<title>Extending Netlify CMS, Part One: Custom Widgets</title>
+<link>
+https://www.netlify.com/blog/2017/06/20/extending-netlify-cms-part-one-custom-widgets/
+</link>
+<pubDate>Tue, 20 Jun 2017 16:10:59 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/20/extending-netlify-cms-part-one-custom-widgets/
+</guid>
+<description>
+While Netlify CMS has enough functionality for many sites out of the box, some sites are going to need a setup geared specifically for their use case. This post is the first in a series designed to give a straightforward look at extending the CMS - starting with creating custom widgets. Our example project To illustrate extending the CMS, we&rsquo;ll be creating a site that uses reveal-md to create web-based slideshows from Markdown documents.
+</description>
+</item>
+<item>
+<title>Nebulab</title>
+<link>https://www.netlify.com/site-of-the-week/nebulab/</link>
+<pubDate>Mon, 19 Jun 2017 17:07:37 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/nebulab/</guid>
+<description/>
+</item>
+<item>
+<title>Pitching the JAMstack To Customers</title>
+<link>
+https://www.netlify.com/blog/2017/06/13/pitching-the-jamstack-to-customers/
+</link>
+<pubDate>Tue, 13 Jun 2017 17:27:56 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/13/pitching-the-jamstack-to-customers/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, Brian invites Georges and Charles show from Snipcart, a JavaScript based shopping cart that can be injected into any website with just a few lines of code. Websites using Snipcart don’t have to host any e-commerce parts themselves. They share their inspiration for building Snipcart and discuss other advantages of Snipcart over traditional shopping carts. They also dig into why and how the JAMstack has affected their whole dynamic with clients.
+</description>
+</item>
+<item>
+<title>WaffleJS</title>
+<link>https://www.netlify.com/blog/2017/06/08/wafflejs/</link>
+<pubDate>Thu, 08 Jun 2017 02:21:05 +0000</pubDate>
+<guid>https://www.netlify.com/blog/2017/06/08/wafflejs/</guid>
+<description/>
+</item>
+<item>
+<title>Donut.js</title>
+<link>https://www.netlify.com/site-of-the-week/donut.js/</link>
+<pubDate>Tue, 06 Jun 2017 23:38:08 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/donut.js/</guid>
+<description/>
+</item>
+<item>
+<title>JAMstack vs Isomorphic Server Side Rendering</title>
+<link>
+https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/
+</link>
+<pubDate>Tue, 06 Jun 2017 17:15:33 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/06/jamstack-vs-isomorphic-server-side-rendering/
+</guid>
+<description>
+The JAMstack runs against all that is Isomorphic JavaScript. The JAMstack pushes for a separation between your client and server code. Allowing different consumers to leverage the API independently; the API shouldn’t decide how its data is consumed. At the core, the JAMstack has fewer threat vectors while serving static content. Sites are also much more portable when not tightly coupled to a server and served from a CDN.
+</description>
+</item>
+<item>
+<title>JAMstack conference videos</title>
+<link>
+https://www.netlify.com/blog/2017/06/01/jamstack-conference-videos/
+</link>
+<pubDate>Thu, 01 Jun 2017 17:56:20 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/06/01/jamstack-conference-videos/
+</guid>
+<description>
+Last month we hosted the first ever JAMstack focused conference, and are happy to share the videos for those who were unable to attend. The conference focused on the active ingredients within modern web workflows. There were talks covering every aspect of the JAM, so if you&rsquo;re looking to learn about the core concepts of Design Systems and the best way to get from design to production, check out Diana Mounter&rsquo;s talk about Design Systems, when and how much?
+</description>
+</item>
+<item>
+<title>
+JAMstack, Netlify CMS, and 10x-ing Smashing Magazine
+</title>
+<link>
+https://www.netlify.com/blog/2017/05/31/jamstack-netlify-cms-and-10x-ing-smashing-magazine/
+</link>
+<pubDate>Wed, 31 May 2017 15:37:25 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/31/jamstack-netlify-cms-and-10x-ing-smashing-magazine/
+</guid>
+<description>
+We had an awesome conversation with Adam Stacoviak and Jarrod Santo on the hugely popular Changelog podcast talking about JAMstack, Netlify, and the Netlify CMS. We discuss how open source drives standards and speak about how we helped Smashing Magazine improve speed by 10x. Click below to listen to the podcast. For show notes and external links, visit the Changelog #251 podcast page.
+</description>
+</item>
+<item>
+<title>Ed van der Elsken</title>
+<link>
+https://www.netlify.com/site-of-the-week/ed-van-der-elsken/
+</link>
+<pubDate>Mon, 29 May 2017 19:26:28 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/ed-van-der-elsken/
+</guid>
+<description/>
+</item>
+<item>
+<title>Top Ten Static Site Generators of 2017</title>
+<link>
+https://www.netlify.com/blog/2017/05/25/top-ten-static-site-generators-of-2017/
+</link>
+<pubDate>Thu, 25 May 2017 15:31:23 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/25/top-ten-static-site-generators-of-2017/
+</guid>
+<description>
+We&rsquo;re progressively seeing the JAMstack (Javascript, APIs, and Markup) gain momentum in modern web development; with static site generators at the epicenter. In this article, we are reporting on the most popular and best-supported static-site generators so far. These rankings are based on GitHub&rsquo;s top starred repositories, this fluctuates daily so for the latest numbers check out staticgen.com (the world&rsquo;s most popular public directory of open-source site generators). Why go static?
+</description>
+</item>
+<item>
+<title>Design Series: Typography</title>
+<link>
+https://www.netlify.com/blog/2017/05/23/design-series-typography/
+</link>
+<pubDate>Tue, 23 May 2017 16:06:44 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/23/design-series-typography/
+</guid>
+<description>
+Picking a good user interface typeface is not a task a designer takes lightly. Imagine the product as if it is a person, the font is the example of what they wearing. Sure someone’s outfit is not a direct representation of someone’s true self, but most of the times it’s a good indicator of their personality, more formal or casual, familiar, irreverent, you get the point. Also, for an app, you can&rsquo;t really compromise legibility, versatility, in favor of personality and style.
+</description>
+</item>
+<item>
+<title>Apollo Launchpad</title>
+<link>
+https://www.netlify.com/site-of-the-week/apollo-launchpad/
+</link>
+<pubDate>Mon, 22 May 2017 16:42:56 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/apollo-launchpad/
+</guid>
+<description/>
+</item>
+<item>
+<title>Accessibility on the Modern Web</title>
+<link>
+https://www.netlify.com/blog/2017/05/18/accessibility-on-the-modern-web/
+</link>
+<pubDate>Thu, 18 May 2017 08:08:28 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/18/accessibility-on-the-modern-web/
+</guid>
+<description>
+Today is Global Accessibility Awareness Day. On Tuesday night JAMstackSF gathered at Wikia’s office to explore the topic of accessibility on the modern web. At Netlify we’ve recently been raising the topic of accessibility internally. It’s great to be on a team where we can comfortably ask the question “Is this accessible?” and it’s followed with articles, tools, opinions, and examples. Our goal is to focus on educating ourselves about the best practices around accessibility for the JAMstack so we can bring that knowledge to the community.
+</description>
+</item>
+<item>
+<title>Sudweb</title>
+<link>https://www.netlify.com/blog/2017/05/18/sudweb/</link>
+<pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/blog/2017/05/18/sudweb/</guid>
+<description/>
+</item>
+<item>
+<title>React & React Native of San Diego</title>
+<link>
+https://www.netlify.com/blog/2017/05/17/react--react-native-of-san-diego/
+</link>
+<pubDate>Wed, 17 May 2017 21:02:10 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/17/react--react-native-of-san-diego/
+</guid>
+<description/>
+</item>
+<item>
+<title>Using GraphQL to manage open source repositories</title>
+<link>
+https://www.netlify.com/blog/2017/05/16/using-graphql-to-manage-open-source-repositories/
+</link>
+<pubDate>Tue, 16 May 2017 21:37:08 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/16/using-graphql-to-manage-open-source-repositories/
+</guid>
+<description>
+GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. The best way to learn about GraphQL is by using GraphQL, which is why I put together starter project to follow and take notes on open source projects on GitHub. At anytime you can see the finished project on GitHub or live at open-sauced.netlify.com/. The Project Netlify loves open source and contributing back to the open source community by providing tools and free hosting.
+</description>
+</item>
+<item>
+<title>EuroGoals</title>
+<link>
+https://www.netlify.com/site-of-the-week/eurogoals/
+</link>
+<pubDate>Tue, 16 May 2017 16:27:47 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/eurogoals/
+</guid>
+<description/>
+</item>
+<item>
+<title>Staying Cool with Graphcool</title>
+<link>
+https://www.netlify.com/blog/2017/05/11/staying-cool-with-graphcool/
+</link>
+<pubDate>Thu, 11 May 2017 14:40:37 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/11/staying-cool-with-graphcool/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I invite Johannes Schickling to discuss Graphcool, a flexible backend platform combining GraphQL &amp; AWS Lambda. Johannes recalls how he was first inspired to work on the Graphcool project. He reveals that unlike Parse and Firebase, Graphcool is based on open source technology and offers greater flexibility in the API layer along with tools to specify complex permission rules. Graphcool lets you stop wasting time writing error-prone database migrations and monitoring log files, letting you focus on what matters: building your app.
+</description>
+</item>
+<item>
+<title>Migrating your Jekyll site to Netlify</title>
+<link>
+https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/
+</link>
+<pubDate>Thu, 11 May 2017 13:51:41 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/11/migrating-your-jekyll-site-to-netlify/
+</guid>
+<description>
+This post will cover how to move your Jekyll site from GitHub Pages to Netlify in with just a few steps. If you have generated your Jekyll site using GitHub pages or forked a template there is a good chance you do not have a Gemfile. This is because GitHub pages will infer dependencies for you. If you would like to build your project outside of GitHub a Gemfile is needed and simple to create.
+</description>
+</item>
+<item>
+<title>
+Optimizing Your CDN Strategy for the Ever-Changing Online World
+</title>
+<link>
+https://www.netlify.com/blog/2017/05/10/optimizing-your-cdn-strategy-for-the-ever-changing-online-world/
+</link>
+<pubDate>Wed, 10 May 2017 09:55:10 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/10/optimizing-your-cdn-strategy-for-the-ever-changing-online-world/
+</guid>
+<description>
+When individuals or businesses opt to use CDN services, their primary goal is to provide a delightful experience to website visitors. Ensuring a fast loading website, despite the distance between an access point of the visitor and server where the website is hosted became a thing of utmost importance. The main benefits of using a CDN go as follows: Enabled global reach with no latency issues, Increased reliability, Reduced response times, Access to analytic information helps businesses discover trends and adjust strategies, Cut down expenses.
+</description>
+</item>
+<item>
+<title>How to do redirects on Netlify</title>
+<link>
+https://www.netlify.com/blog/2017/05/04/how-to-do-redirects-on-netlify/
+</link>
+<pubDate>Thu, 04 May 2017 18:22:17 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/04/how-to-do-redirects-on-netlify/
+</guid>
+<description>
+You can configure redirects and rewrite rules for your Netlify site by adding a_redirectsfile to the root of your site folder (note, if you’re running a build command, the_redirectsfile should end up in the folder you’re deploying. It’s not enough to have on in the root of your repository). To learn more about what you can do with the _redirects file read our documentation on the subject and try your redirect rules at playground.
+</description>
+</item>
+<item>
+<title>Vital Supply Co.</title>
+<link>
+https://www.netlify.com/site-of-the-week/vital-supply-co./
+</link>
+<pubDate>Wed, 03 May 2017 16:46:44 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/vital-supply-co./
+</guid>
+<description/>
+</item>
+<item>
+<title>FaaS and the Benefits of Serverless</title>
+<link>
+https://www.netlify.com/blog/2017/05/02/faas-and-the-benefits-of-serverless/
+</link>
+<pubDate>Tue, 02 May 2017 14:37:45 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/05/02/faas-and-the-benefits-of-serverless/
+</guid>
+<description>
+In the latest JAMstack Radio we discuss common use cases for FaaS and break down the cost benefit of using a service like Lambda instead of a more traditional server. Ryan Scott Brown also discusses the main players in the space with me and some of the vendor lock-ins you should expect across the spectrum when using FaaS.
+</description>
+</item>
+<item>
+<title>Platform Security Engineer</title>
+<link>
+https://www.netlify.com/careers/platform-security-engineer/
+</link>
+<pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/careers/platform-security-engineer/
+</guid>
+<description>
+Overview At Netlify, we’re building a platform to empower digital designers and developers to build better, more elaborate web projects than ever before. We’re aiming to change the landscape of modern web development. The security engineers have two main missions. First, to keep the visitors that browse sites hosted on Netlify safe. Second, to keep developers that use Netlify&rsquo;s platform and their sites safe. Our main office is located in the Dogpatch district in San Francisco, CA.
+</description>
+</item>
+<item>
+<title>Rails Engineer</title>
+<link>https://www.netlify.com/careers/rails-engineer/</link>
+<pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/careers/rails-engineer/</guid>
+<description>
+Overview At Netlify, we’re building a platform to empower digital designers and developers to build better, more elaborate web projects than ever before. We’re aiming to change the landscape of modern web development. The fullstack engineer&rsquo;s mission is to build the APIs and user interfaces that thousands of developers use when they deploy their sites on Netlify. Our main office is located in the Dogpatch district in San Francisco, CA.
+</description>
+</item>
+<item>
+<title>Active Ingredients</title>
+<link>
+https://www.netlify.com/blog/2017/04/28/active-ingredients/
+</link>
+<pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/28/active-ingredients/
+</guid>
+<description>
+A New Web Development Conference What are the active ingredients of modern web workflows in 2017? What’s the best way of getting from design to production? What are the best practices for making Progressive Web Apps, Serverless APIs, and the rest of the JAMstack? Spend a day learning from some of the most prominent people in web development. Go through best practices, inside advice, and great case studies on modern stacks.
+</description>
+</item>
+<item>
+<title>MojoTech</title>
+<link>https://www.netlify.com/site-of-the-week/mojotech/</link>
+<pubDate>Wed, 26 Apr 2017 05:02:33 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/mojotech/</guid>
+<description/>
+</item>
+<item>
+<title>Adding Algolia DocSearch to Netlify CMS</title>
+<link>
+https://www.netlify.com/blog/2017/04/25/adding-algolia-docsearch-to-netlify-cms/
+</link>
+<pubDate>Tue, 25 Apr 2017 22:53:46 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/25/adding-algolia-docsearch-to-netlify-cms/
+</guid>
+<description>
+The netlifycms.org page has been live for about a month now and launched with a missing feature, the ability to search. Adding search to JAMstack sites is a new thing for me but not a new thing for Algolia. Algolia is a hosted search tool that provides lightning fast search results. I decided to give Algolia a try for our new Netlify CMS documentation and discovered their DocSearch solution. DocSearch started as a way for the Algolia Search team to scratch their own itch, which is providing a truly easy way to add search to documentation.
+</description>
+</item>
+<item>
+<title>Chicago JS</title>
+<link>
+https://www.netlify.com/blog/2017/04/25/chicago-js/
+</link>
+<pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/25/chicago-js/
+</guid>
+<description>
+Meet other local JavaScripters to network, share knowledge, to review the state of the art, or to dream up new applications. Meetups are free (as speech and beer) while we have the corporate sponsor. Learn more on the Meetup Page
+</description>
+</item>
+<item>
+<title>Creating a blog with Middleman and Netlify CMS</title>
+<link>
+https://www.netlify.com/blog/2017/04/20/creating-a-blog-with-middleman-and-netlify-cms/
+</link>
+<pubDate>Thu, 20 Apr 2017 23:39:15 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/20/creating-a-blog-with-middleman-and-netlify-cms/
+</guid>
+<description>
+I am a believer that you can’t build a ship while sailing it, which is why it is my opinion that building a blog from scratch takes away from actually writing blog posts. Thanks to Site Generators you can get a decent looking blog up with the focus being on creating content. Static site generators like Hugo and Jekyll provide a streamlined solution where you can add a styled themed with low effort.
+</description>
+</item>
+<item>
+<title>
+Clean up promise handling with resolvePromiseProperties
+</title>
+<link>
+https://www.netlify.com/blog/2017/04/18/clean-up-promise-handling-with-resolvepromiseproperties/
+</link>
+<pubDate>Tue, 18 Apr 2017 17:45:12 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/18/clean-up-promise-handling-with-resolvepromiseproperties/
+</guid>
+<description>
+The problem When working with REST APIs you&rsquo;ll frequently end up in a situation where you want to return an object with bits of data from a couple different endpoints. This can end up leaving you with pretty messy code, especially if the shape of the object you&rsquo;re returning is different than that of the API responses. We ran into this multiple times while building NetlifyCMS - we&rsquo;d be using data from different parts of the Github API, some of which depend on each other, and we&rsquo;d end up with very hairy code, having to split business logic across different .
+</description>
+</item>
+<item>
+<title>JAMstack Hack Night with Images on the JAMstack</title>
+<link>
+https://www.netlify.com/blog/2017/04/18/jamstack-hack-night-with-images-on-the-jamstack/
+</link>
+<pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/18/jamstack-hack-night-with-images-on-the-jamstack/
+</guid>
+<description>
+Bring your laptop! This month, we’re trying out a new “hack night” format to give people time to ask questions, share ideas, and find collaborators on JAMstack projects. We’ll get things started with a 25-minute talk, then open the room for people to share what they’re working on (even if you’re just starting!) For example: • Upgrading a web app to a Progressive Web App • Adding Netlify CMS to your existing static site
+</description>
+</item>
+<item>
+<title>Exploring GraphQL Through Apollo</title>
+<link>
+https://www.netlify.com/blog/2017/04/13/exploring-graphql-through-apollo/
+</link>
+<pubDate>Thu, 13 Apr 2017 15:34:47 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/13/exploring-graphql-through-apollo/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I chat with Sashko Stubailo and Jonas Helfer from Meteor to discuss Apollo, a set of tools developed to make GraphQL easier to use. They explain that while GraphQL is a great technology, the ecosystem of tools for the technology is still developing. They also discuss Optics, a paid service that collects server data and delivers analytics and performance information.
+</description>
+</item>
+<item>
+<title>Kitnic</title>
+<link>https://www.netlify.com/site-of-the-week/kitnic/</link>
+<pubDate>Thu, 13 Apr 2017 03:49:40 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/kitnic/</guid>
+<description/>
+</item>
+<item>
+<title>Netlify Plus Hugo 0.20 and Beyond</title>
+<link>
+https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/
+</link>
+<pubDate>Tue, 11 Apr 2017 15:59:17 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/11/netlify-plus-hugo-0.20-and-beyond/
+</guid>
+<description>
+Hugo 0.20 was released yesterday with an amazing new set of features. We&rsquo;re super fans of Hugo at Netlify and we always like to make new releases available on our platform as soon as we can. This blog post explains how you can start using Hugo 0.20 today, how to test that your site is working with the new version using Deploy Contexts, and the changes we’ve made so you can install any future new version of Hugo without having to wait for us to make it available.
+</description>
+</item>
+<item>
+<title>Selective Password Protection</title>
+<link>
+https://www.netlify.com/blog/2017/04/07/selective-password-protection/
+</link>
+<pubDate>Fri, 07 Apr 2017 07:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/07/selective-password-protection/
+</guid>
+<description>
+We recognize that one size does not fit all. Sometimes you need to password protect some or all of your deploy previews so that curious minds don&rsquo;t get the jump on your new product or announcement. Let&rsquo;s walk through a way to protect specific deploys on any paid account (password protection is a paid feature). This example will apply to all deploy previews for branches other than your main branch. So, we&rsquo;ll still build and deploy the main branch and PR&rsquo;s against it as usual with this configuration.
+</description>
+</item>
+<item>
+<title>Design Series: Our App's New Color Palette</title>
+<link>
+https://www.netlify.com/blog/2017/04/06/design-series-our-apps-new-color-palette/
+</link>
+<pubDate>Thu, 06 Apr 2017 15:20:02 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/06/design-series-our-apps-new-color-palette/
+</guid>
+<description>
+We’ve talked about our Grid System and how crucial it is for our redesigned user interface. Today we are going to cover the color palette we’ve chosen to paint our backgrounds, our buttons, and the overall look and feel. This topic gets entry number two on our series because, much like sizes, paddings and our unit to build a layout, color is one of those areas that eventually ended up trickling down throughout all of the work built on top of it.
+</description>
+</item>
+<item>
+<title>Feeling Helpful?</title>
+<link>
+https://www.netlify.com/blog/2017/04/04/feeling-helpful/
+</link>
+<pubDate>Tue, 04 Apr 2017 15:43:44 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/04/04/feeling-helpful/
+</guid>
+<description>
+Hi! I’m Chris and I lead the Support team at Netlify. Our goal is that our software is usable in seconds, without any difficulties, and without you even needing to read the documentation. The reality of the world is that there are corner cases, our documentation is missing pieces, and our software doesn’t always work perfectly. While we are always working hard on improving our services, there is a gap between “what would be perfect” and “what exists now,” and my team is the one that smooths over the gap between them.
+</description>
+</item>
+<item>
+<title>Active Ingredients 2017</title>
+<link>
+https://www.netlify.com/site-of-the-week/active-ingredients-2017/
+</link>
+<pubDate>Mon, 03 Apr 2017 10:14:54 -0700</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/active-ingredients-2017/
+</guid>
+<description/>
+</item>
+<item>
+<title>Learning JavaScript with Free Code Camp</title>
+<link>
+https://www.netlify.com/blog/2017/03/29/learning-javascript-with-free-code-camp/
+</link>
+<pubDate>Wed, 29 Mar 2017 13:05:57 -0700</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/29/learning-javascript-with-free-code-camp/
+</guid>
+<description>
+In this episode of JAMstack Radio, I speak with Quincy Larson, Founder of Free Code Camp and Berkeley Martinez, CTO of Free Code Camp. We discuss Free Code Camp’s “self study together” approach that has grown their community to over 350,000 monthly active users. Quincy explains why they chose JavaScript as the language to teach people how to program. An important part of their curriculum is the invaluable practical training campers gain by working with non-profits and contributing to open source communities.
+</description>
+</item>
+<item>
+<title>Why You Don't Need Cloudflare with Netlify</title>
+<link>
+https://www.netlify.com/blog/2017/03/28/why-you-dont-need-cloudflare-with-netlify/
+</link>
+<pubDate>Tue, 28 Mar 2017 17:11:51 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/28/why-you-dont-need-cloudflare-with-netlify/
+</guid>
+<description>
+Cloudflare is a service to speed up and protect millions of websites, APIs, SaaS services, and other properties connected to the Internet. What does that mean? Cloudflare enables any site with a custom domain the ability to handle SSL, DNS load balancing, and protection against DDoS attacks. This is a great way for sites that are still running on server-based web hosts to get some easy integrations by using the Cloudflare service.
+</description>
+</item>
+<item>
+<title>A 2.0 Grid System</title>
+<link>
+https://www.netlify.com/blog/2017/03/23/a-2.0-grid-system/
+</link>
+<pubDate>Thu, 23 Mar 2017 16:12:13 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/23/a-2.0-grid-system/
+</guid>
+<description>
+Allow me to kick off this Design Series with our grid system — the building blocks. This is the scale that will be used to make a lot of layout decisions, keep a coherent look throughout the app, and make implementation more simple. I started with the simplest thing, the unit, and for that I followed the rules of the 8-Point Grid. Here’s the basic principle, from the Spec FM folks:
+</description>
+</item>
+<item>
+<title>An Open Source CMS with a Git-Centric Workflow</title>
+<link>
+https://www.netlify.com/blog/2017/03/17/an-open-source-cms-with-a-git-centric-workflow/
+</link>
+<pubDate>Fri, 17 Mar 2017 15:43:17 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/17/an-open-source-cms-with-a-git-centric-workflow/
+</guid>
+<description>
+The Rise of a New Kind of CMS Traditionally CMSs have been large, bloated monolithic applications that gobble up more and more functionality as they evolve. Most CMSs enable content writers to create and update site content, and most of them provide tools for editorial collaboration, review, and approvals. The idea of this is great. However, it often comes at a cost of having to maintaining application servers and databases, with complex interwoven layers of cache—not to mention the possible security vulnerabilities.
+</description>
+</item>
+<item>
+<title>Smashing Magazine just got 10x faster</title>
+<link>
+https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/
+</link>
+<pubDate>Thu, 16 Mar 2017 21:11:27 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/16/smashing-magazine-just-got-10x-faster/
+</guid>
+<description>
+Listen to our journey with Smashing Magazine Smashing Magazine has always been a platform developers trust. They provide a place to go to find the best practices for web development. We’ve long put our trust in them since, Matt Biilmann, my co-founder and CEO of Netlify, personally used Smashing Magazine as he began his journey as a self-taught programmer years ago. In November 2015, Matt wrote”&rsquo;Why Static Website Generators Are The Next Big Thing” it was one of the most performant articles Smashing Magazine had seen.
+</description>
+</item>
+<item>
+<title>Who Moved My (Cheese) Manual Deploys?</title>
+<link>
+https://www.netlify.com/blog/2017/03/16/who-moved-my-cheese-manual-deploys/
+</link>
+<pubDate>Thu, 16 Mar 2017 20:02:16 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/16/who-moved-my-cheese-manual-deploys/
+</guid>
+<description>
+Some things have changed with the introduction of our brand new User Interface One of those things is the way to trigger a Manual Deploy — here&rsquo;s how you do it: Manually Deploy to an existing site: In the Deploys page, simply scroll all the way to the bottom and you&rsquo;ll see the target box( the box in which you can drag and drop your local project in) and immediately trigger a new build.
+</description>
+</item>
+<item>
+<title>Introducing A New Design System</title>
+<link>
+https://www.netlify.com/blog/2017/03/14/introducing-a-new-design-system/
+</link>
+<pubDate>Tue, 14 Mar 2017 14:40:12 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/14/introducing-a-new-design-system/
+</guid>
+<description>
+Netlify is growing. As our user base and team grows, it’s natural our product would as well. Since I joined this brilliant team we have shipped amazing new features at a incredible pace, and we have an exciting roadmap planned for the future. However, this amazing pace means that sometimes our product’s current design showed its limitations — if we want new features and our product to scale graciously, we needed our UI to do the same.
+</description>
+</item>
+<item>
+<title>Smashing Magazine</title>
+<link>https://www.netlify.com/case-studies/smashing/</link>
+<pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/smashing/</guid>
+<description/>
+</item>
+<item>
+<title>Haiku</title>
+<link>https://www.netlify.com/site-of-the-week/haiku/</link>
+<pubDate>Thu, 09 Mar 2017 06:51:29 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/haiku/</guid>
+<description/>
+</item>
+<item>
+<title>You might not need to build that script anymore</title>
+<link>
+https://www.netlify.com/blog/2017/03/07/you-might-not-need-to-build-that-script-anymore/
+</link>
+<pubDate>Tue, 07 Mar 2017 11:39:13 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/07/you-might-not-need-to-build-that-script-anymore/
+</guid>
+<description>
+I often see individuals tweet about code showing they integrated into a complicated build script just to publish their website. Got tired of manually deploying things to my website, so I just spent the last hour hooking it up to @travisci to build and deploy it. — Iheanyi ???? Ekechukwu (@kwuchu) January 8, 2017 I applaud the effort in solving the problem of automating deployments for static* sites and actually have more respect for them in doing the hard work of perfecting continuous integration (CI).
+</description>
+</item>
+<item>
+<title>To Message Bus or Not: Distributed Systems Design</title>
+<link>
+https://www.netlify.com/blog/2017/03/02/to-message-bus-or-not-distributed-systems-design/
+</link>
+<pubDate>Thu, 02 Mar 2017 00:57:03 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/03/02/to-message-bus-or-not-distributed-systems-design/
+</guid>
+<description>
+Distributed system design is hard. There are many decisions that you need to make in the architecture early that have long reaching impacts. One of these decisions is how systems will communicate. Will components expose RESTful APIs? Will they interact with a messaging system (e.g. RabbitMQ, NATS, Kafka)? GRPC? How will they share responses? I think that communication roughly falls into two schools: point to point and message bus.
+</description>
+</item>
+<item>
+<title>To WWW or not WWW</title>
+<link>
+https://www.netlify.com/blog/2017/02/28/to-www-or-not-www/
+</link>
+<pubDate>Tue, 28 Feb 2017 19:33:49 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/28/to-www-or-not-www/
+</guid>
+<description>
+Note, if you use Netlify’s built-in DNS service, there’s absolutely no difference between using www or not - if you’re using an external DNS provider, then read on. Your DNS Setup can have a great effect on performance and DDoS resilience. Our site for Netlify is hosted on www.netlify.com, rather than netlify.com We call netlify.com the &ldquo;apex&rdquo; domain or &ldquo;root&rdquo; domain. Some might think that this is merely a cosmetic difference and make whole websites arguing against the www prefix.
+</description>
+</item>
+<item>
+<title>Armor Games Studios</title>
+<link>
+https://www.netlify.com/site-of-the-week/armor-games-studios/
+</link>
+<pubDate>Tue, 28 Feb 2017 16:14:55 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/armor-games-studios/
+</guid>
+<description/>
+</item>
+<item>
+<title>Better Living Through Caching</title>
+<link>
+https://www.netlify.com/blog/2017/02/23/better-living-through-caching/
+</link>
+<pubDate>Thu, 23 Feb 2017 18:33:05 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/23/better-living-through-caching/
+</guid>
+<description>
+Do you love waiting for web content to load? Of course not, and neither do your customers. Netlify is on your side, helping you deliver content to browsers before your visitors can blink. Between the speed benefits you already know from using the JAMstack and some intelligent content caching, your visitors get a great experience. In this post I’ll explain some of the finer points of caching and how we do it at Netlify.
+</description>
+</item>
+<item>
+<title>Shifting WordPress to the JAMstack</title>
+<link>
+https://www.netlify.com/blog/2017/02/23/shifting-wordpress-to-the-jamstack/
+</link>
+<pubDate>Thu, 23 Feb 2017 10:01:09 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/23/shifting-wordpress-to-the-jamstack/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, Brian speaks with Daniel Olson, Lead Developer at J2 Design and Shinichi Nishikawa, WordPress enthusiast and key reviewer in WordPress.org’s Theme Review Team. They discuss Shifter, an interesting new use case for serverless. Shifter is a serverless WordPress hosting solution. Upload your WordPress site and Shifter pre-renders and serves all the HTML files via CDN. Listen in for details on how Shifter works to deliver better speed and security for WordPress sites.
+</description>
+</item>
+<item>
+<title>Reactathon</title>
+<link>
+https://www.netlify.com/site-of-the-week/reactathon/
+</link>
+<pubDate>Tue, 21 Feb 2017 19:29:59 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/reactathon/
+</guid>
+<description/>
+</item>
+<item>
+<title>Verifying your header rules configuration</title>
+<link>
+https://www.netlify.com/blog/2017/02/16/verifying-your-header-rules-configuration/
+</link>
+<pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/16/verifying-your-header-rules-configuration/
+</guid>
+<description>
+According to our metrics, we&rsquo;ve processed more than one hundred thousand deploys with custom header rules. It turns out, that being able to customize the headers your site sends to a browser is very useful. You can configure CORS rules, specify security policies and even change the cache rules for those assets you know that never change. However, until now, it was hard to be sure if your headers were correct.
+</description>
+</item>
+<item>
+<title>
+How To Shave time Off Of Your Load Time (It’s Really, Really Easy)
+</title>
+<link>
+https://www.netlify.com/blog/2017/02/15/how-to-shave-time-off-of-your-load-time-its-really-really-easy/
+</link>
+<pubDate>Wed, 15 Feb 2017 21:55:24 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/15/how-to-shave-time-off-of-your-load-time-its-really-really-easy/
+</guid>
+<description>
+Every few months, somebody posts this motherfucking website to Hacker News. And each and every time, it seems to head straight to the front page. The project is a joke, and opinions in the comments tend to be split, but it addresses an important point: bloat is still a huge issue, despite the fact that the developer community has been talking about it for 20+ years. In fact, it’s getting worse.
+</description>
+</item>
+<item>
+<title>Digital Democracy</title>
+<link>
+https://www.netlify.com/site-of-the-week/digital-democracy/
+</link>
+<pubDate>Tue, 14 Feb 2017 22:04:25 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/digital-democracy/
+</guid>
+<description/>
+</item>
+<item>
+<title>Isomorphic Rendering in the JAMstack</title>
+<link>
+https://www.netlify.com/blog/2017/02/07/isomorphic-rendering-in-the-jamstack/
+</link>
+<pubDate>Tue, 07 Feb 2017 12:39:37 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/07/isomorphic-rendering-in-the-jamstack/
+</guid>
+<description>
+In the latest episode of JAMstack Radio, I speak with Phil Hawksworth, Technical Director at R/GA and Eli Williamson, Creative Director at Netlify. We chat on isomorphic rendering in the JAMstack and the staggering performance improvements. Listen in for the discussion on optimizing website performance by empowering front end developers, using static sites, and going server-less. Phil&rsquo;s talk at JAMstackSF
+</description>
+</item>
+<item>
+<title>React Boilerplate</title>
+<link>
+https://www.netlify.com/site-of-the-week/react-boilerplate/
+</link>
+<pubDate>Mon, 06 Feb 2017 19:27:49 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/react-boilerplate/
+</guid>
+<description/>
+</item>
+<item>
+<title>Learning Review for our Feb 2 Origin Outage</title>
+<link>
+https://www.netlify.com/blog/2017/02/03/learning-review-for-our-feb-2-origin-outage/
+</link>
+<pubDate>Fri, 03 Feb 2017 23:41:50 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/03/learning-review-for-our-feb-2-origin-outage/
+</guid>
+<description>
+Yesterday we had a serious incident where human error caused a data migration to go wrong and caused metadata for 5.2% of the deploys in our system to get overwritten. This caused downtime for sites if they had one of these deploys active, and the given CDN node did not have the site content in its cache. Our API and web UI also failed to fetch any sites that included a deploy in an invalid state.
+</description>
+</item>
+<item>
+<title>Why your next site should be built with JAM</title>
+<link>
+https://www.netlify.com/blog/2017/02/03/why-your-next-site-should-be-built-with-jam/
+</link>
+<pubDate>Fri, 03 Feb 2017 22:27:08 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/02/03/why-your-next-site-should-be-built-with-jam/
+</guid>
+<description>
+There’s no reason to have a massive, unwieldy CMS with a database or a fancy isomorphic monolith when you could have a fast, secure and beautiful static site. But how can you decide if a new site is right for you? No matter what tools you prefer to develop in, whether it be Node, Ruby, Python or something else, there’s a site generator for you(staticgen.com), the best source for information on static website generators on the internet.
+</description>
+</item>
+<item>
+<title>Best Practices: Getting started with Netlify</title>
+<link>
+https://www.netlify.com/blog/2017/01/31/best-practices-getting-started-with-netlify/
+</link>
+<pubDate>Tue, 31 Jan 2017 20:35:22 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/31/best-practices-getting-started-with-netlify/
+</guid>
+<description>
+We hope that our software is fairly intuitive and obvious. However, one of my own favorite adages is that &ldquo;There is no intuitive interface, not even the nipple. It’s all learned&rdquo;. To that end, here are some best practices for getting started with Netlify that we try to make easy even if they’re not obvious. Name your site something meaningful immediately. We pick an automatic name for you but it is just a string of words and numbers.
+</description>
+</item>
+<item>
+<title>Water for People</title>
+<link>
+https://www.netlify.com/site-of-the-week/water-for-people/
+</link>
+<pubDate>Tue, 31 Jan 2017 19:32:24 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/water-for-people/
+</guid>
+<description/>
+</item>
+<item>
+<title>Exploring Preact with React</title>
+<link>
+https://www.netlify.com/blog/2017/01/26/exploring-preact-with-react/
+</link>
+<pubDate>Thu, 26 Jan 2017 18:46:46 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/26/exploring-preact-with-react/
+</guid>
+<description>
+The new Progressive Web App classification has everyone interested in their bundle sizes. I create apps using the create-react-app CLI all the time, because I don’t want to have to think about configuration and set up when starting a new app. My choice for convention over configuration has now got me considering the trade-offs, the create-react-app CLI is enough to build an application quickly but is is also necessary to have a fast and reliable application that loads on 2G networks.
+</description>
+</item>
+<item>
+<title>Kinto</title>
+<link>https://www.netlify.com/site-of-the-week/kinto/</link>
+<pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/kinto/</guid>
+<description/>
+</item>
+<item>
+<title>Setting Cookies in React</title>
+<link>
+https://www.netlify.com/blog/2017/01/19/setting-cookies-in-react/
+</link>
+<pubDate>Thu, 19 Jan 2017 13:32:52 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/19/setting-cookies-in-react/
+</guid>
+<description>
+On first login to Netlify we present you with a wonderful onboarding modal explaining briefly what we are all about. I was given the task to only present this modal to the new users, but not to existing users. My first thought was to add a check to see if a user has exactly 1 site deployed to Netlify, then this onboard modal. This was not a great solution due to most new users onboarding with Netlify via our Sign Up flow and that coaches the user through a path to deployment of your first site, which is the real purpose of the modal - to provide next steps after your first deploy to Netlify.
+</description>
+</item>
+<item>
+<title>Serverless</title>
+<link>
+https://www.netlify.com/site-of-the-week/serverless/
+</link>
+<pubDate>Mon, 16 Jan 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/serverless/
+</guid>
+<description/>
+</item>
+<item>
+<title>Common JavaScript functions with Lodash</title>
+<link>
+https://www.netlify.com/blog/2017/01/12/common-javascript-functions-with-lodash/
+</link>
+<pubDate>Thu, 12 Jan 2017 14:52:55 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/12/common-javascript-functions-with-lodash/
+</guid>
+<description>
+There are some things in JavaScript that seem tedious to write. When I first started learning the language a few years back, I found a few common functions like shuffle and range that are included in the Ruby and Python API, but are not available with JavaScript. Luckily there are libraries like Lodash that provides functions for solved problems like shuffling an array while delivering modularity. Lodash is one of the most popular JavaScript utlitilty libraries with more than 2 billion downloads.
+</description>
+</item>
+<item>
+<title>Canadian Mountain Holidays</title>
+<link>
+https://www.netlify.com/site-of-the-week/canadian-mountain-holidays/
+</link>
+<pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/canadian-mountain-holidays/
+</guid>
+<description/>
+</item>
+<item>
+<title>Keep your site stable with Locked Deploys</title>
+<link>
+https://www.netlify.com/blog/2017/01/10/keep-your-site-stable-with-locked-deploys/
+</link>
+<pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/10/keep-your-site-stable-with-locked-deploys/
+</guid>
+<description>
+We just launched Locked Deploys! These help you keep stable versions of your sites in production without losing the advantages of continuous deploys. Locked Deploys are specially helpful in those times when you want to pause publishing to production in every single merge to a master branch, for a while. You can pin any site to its current deploy and we’ll keep building new deploys as they come in, but we won’t publish them if they affect production.
+</description>
+</item>
+<item>
+<title>4 Key Concepts of Webpack</title>
+<link>
+https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/
+</link>
+<pubDate>Tue, 03 Jan 2017 15:49:04 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2017/01/03/4-key-concepts-of-webpack/
+</guid>
+<description>
+Webpack is JavaScript module bundler that has taken the world by storm, but a lack of great docs and wealth of boilerplates have led to many people using it, but not understand it. Sean T. Larkin from the Webpack core team spoke at a recent JAMstack SF meetup on the subject. Webpack is a static build tool and there are 4 key concepts to understand how it works.
+</description>
+</item>
+<item>
+<title>DraftJS & Rich Text Editing On The Web</title>
+<link>
+https://www.netlify.com/blog/2016/12/29/draftjs--rich-text-editing-on-the-web/
+</link>
+<pubDate>Thu, 29 Dec 2016 18:19:36 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/29/draftjs--rich-text-editing-on-the-web/
+</guid>
+<description>
+DraftJS is a rich-text editing framework based on an immutable model. It was released by Facebook on the React Conf early 2016 and changing the way developers are now approaching Rich Text Editing on the web. Nik Graf has development plugin architecture for DraftJS, called draft-js-plugins. In this episode we tsalk a bit about the history of Rich Text Editing and how we got to the point where tools like DraftJS and DraftJS plugins are making rich-text editing great again.
+</description>
+</item>
+<item>
+<title>An Open Source Tale</title>
+<link>
+https://www.netlify.com/blog/2016/12/22/an-open-source-tale/
+</link>
+<pubDate>Thu, 22 Dec 2016 18:17:56 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/22/an-open-source-tale/
+</guid>
+<description>
+You may or may not have heard, Netlify loves open source. In fact, we recently built a page completely dedicated to our open source efforts. In our minds, open source is an integral part of our DNA as a company and our founding team reflects that. We believe in a new way of building websites that delivers better performance, higher security, a lower cost of scaling and overall a better developer experience.
+</description>
+</item>
+<item>
+<title>Form Handling</title>
+<link>https://www.netlify.com/docs/form-handling/</link>
+<pubDate>Thu, 22 Dec 2016 04:29:26 +0000</pubDate>
+<guid>https://www.netlify.com/docs/form-handling/</guid>
+<description>
+Handling Form Submissions Netlify comes with built-in form handling. Code an HTML form into any page on your site, add a netlify attribute or data-netlify=&quot;true&quot; to the &lt;form&gt; tag, and you can start receiving submissions in your Netlify site admin panel. We recommend setting a name attribute on the form so you can easily identify which form your incoming submissions are coming from (in case you ever have more than one form on a site).
+</description>
+</item>
+<item>
+<title>Try Out GraphQL</title>
+<link>
+https://www.netlify.com/blog/2016/12/20/try-out-graphql/
+</link>
+<pubDate>Tue, 20 Dec 2016 15:46:11 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/20/try-out-graphql/
+</guid>
+<description>
+GraphQL is an open source query language from Facebook to connect APIs to Frontend applications. GraphQL provides a complete and understandable description of the data in your API and gives clients the power to ask for exactly what they need and nothing more. Graphcool is a project that provides a flexible backend platform combining GraphQL+ AWS Lambda. The nice part about is how quickly you can get a project up and running.
+</description>
+</item>
+<item>
+<title>Style Guides at Airbnb</title>
+<link>
+https://www.netlify.com/blog/2016/12/16/style-guides-at-airbnb/
+</link>
+<pubDate>Fri, 16 Dec 2016 10:55:47 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/16/style-guides-at-airbnb/
+</guid>
+<description>
+I have been working programming professional for about 3 years now and only been working in JavaScript for half that time. So when I made the jump into the JavaScript ecosystem I needed help keepting my syntax consistent, which is how I stumbled upon the Airbnb Style Guide. // excerpt from the Airbnb style guide. // bad const items = new Array(); // good const items = []; I chat with Harrison about what makes for a good style guide and why they are so important for growing engineering teams.
+</description>
+</item>
+<item>
+<title>Migrating to a Static Site with JAMstack & Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/12/15/migrating-to-a-static-site-with-jamstack--netlify/
+</link>
+<pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/15/migrating-to-a-static-site-with-jamstack--netlify/
+</guid>
+<description>
+Everyone is fed up with the constant admin and update cycles of bulky server-dependent softwares such as Wordpress, Drupal, and Heroku. It&rsquo;s time to take the headaches and monotony out of developing (at the same time, making your site faster and more secure). JAMstack on Netlify is the obvious solution and this article is aimed at helping you step into the light much like Jeremy (and many others) have.
+</description>
+</item>
+<item>
+<title>Forest Giant</title>
+<link>
+https://www.netlify.com/site-of-the-week/forest-giant/
+</link>
+<pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/forest-giant/
+</guid>
+<description/>
+</item>
+<item>
+<title>Unveiling: Netlify News</title>
+<link>
+https://www.netlify.com/blog/2016/12/07/unveiling-netlify-news/
+</link>
+<pubDate>Wed, 07 Dec 2016 18:57:39 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/07/unveiling-netlify-news/
+</guid>
+<description>
+Best practices on building, deploying and maintaining websites is changing tremendously fast right now. Therefore it has always been one of our goals as a company is to provide plenty of compelling, useful material for our users to choose from. Publishing blog posts several times a week we’ve found that creating the content is indeed something our team loves. Recently, we’ve added a podcast where we discuss with developers how they’re working with the JAMstack, and a Site of the Week feature where we showcase exciting projects using Netlify, including open source projects with billion+ downloads and some of the best digital agencies in the world.
+</description>
+</item>
+<item>
+<title>DevOpsDays</title>
+<link>
+https://www.netlify.com/site-of-the-week/devopsdays/
+</link>
+<pubDate>Mon, 05 Dec 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/devopsdays/
+</guid>
+<description/>
+</item>
+<item>
+<title>
+Learning Review for our 22 November API and Origin outage
+</title>
+<link>
+https://www.netlify.com/blog/2016/12/01/learning-review-for-our-22-november-api-and-origin-outage/
+</link>
+<pubDate>Thu, 01 Dec 2016 10:07:38 -0800</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/12/01/learning-review-for-our-22-november-api-and-origin-outage/
+</guid>
+<description>
+The downtime On the 22nd of November, the database backing our service filled its disk and stopped responding. Thirty minutes later, we had the database moved to a bigger disk and service returned to normal. During those thirty minutes, our CDN edge nodes and DNS service continued to work, so while some customer sites were down, high-traffic sites were available as their content was already cached at the edge nodes.
+</description>
+</item>
+<item>
+<title>GraphQL at GitHub</title>
+<link>
+https://www.netlify.com/blog/2016/11/30/graphql-at-github/
+</link>
+<pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/30/graphql-at-github/
+</guid>
+<description>
+We sat down with Kyle Daigle, manager on the API team at GitHub to chat about how they implement GraphQL into their API at GitHub. If you are unfamiliar, GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
+</description>
+</item>
+<item>
+<title>Introducing the Deploy to Netlify button</title>
+<link>
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/
+</link>
+<pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/
+</guid>
+<description>
+If you thought deploying new projects to Netlify could not be more simple, you might have been right, but we always like to surprise you. The web is full of amazing templates and starter kits for people to reuse. However, doing that requires you to copy a bunch of code and customize it to your needs. The new &ldquo;Deploy to Netlify&rdquo; button helps you launch a new site from a template right away, just one single click required.
+</description>
+</item>
+<item>
+<title>Prerendering Explained</title>
+<link>
+https://www.netlify.com/blog/2016/11/22/prerendering-explained/
+</link>
+<pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/22/prerendering-explained/
+</guid>
+<description>
+If you’re using a Single Page Application (SPA) for a site that’s not behind a login, SEO is an important concern. Google recommends you use their built-in capacity for interpreting JavaScript applications, but our recommendation is not to trust Google on this. In our experience that’s often still not enough and prerendering is often still a necessity. SPAs are a flavor of the JAMstack and a fast way for building apps.
+</description>
+</item>
+<item>
+<title>Carrot Creative</title>
+<link>https://www.netlify.com/case-studies/carrot/</link>
+<pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/carrot/</guid>
+<description/>
+</item>
+<item>
+<title>Carrot Creative</title>
+<link>
+https://www.netlify.com/site-of-the-week/carrot-creative/
+</link>
+<pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/carrot-creative/
+</guid>
+<description/>
+</item>
+<item>
+<title>Serverless File Uploads</title>
+<link>
+https://www.netlify.com/blog/2016/11/17/serverless-file-uploads/
+</link>
+<pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/17/serverless-file-uploads/
+</guid>
+<description>
+Web applications often require the ability to allow users to upload files such as images, but ever so often, this is the only functionality on the project that required an application server - Thousands of sites on the Internet could benefit from a CDN infrastructure, but are currently hosted on slower and less secure infrastructure because of things like consumer pictures for a product page, resume uploads for the jobs page etc&hellip; In this tutorial, you will learn how to build a secure, serverless file upload system using the &ldquo;serverless framework&rdquo;.
+</description>
+</item>
+<item>
+<title>New to JAMstack? How to make a site from A to Z</title>
+<link>
+https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/
+</link>
+<pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/
+</guid>
+<description>
+The JAMstack is an ideal way of building websites and apps that are fast, secure and simple to work with. The &ldquo;JAM&rdquo; in JAMstack stands for JavaScript, APIs and Markup. This approach relinquishes the shackles of servers, host all your front-end on a CDN and use APIs for any moving parts. What a wonderful world we live in. Today, we&rsquo;re going to show you how to host build and host a static website using Hugo on Netlify, including setting up continuous deployment with Github.
+</description>
+</item>
+<item>
+<title>3 of the Most Common Errors in React</title>
+<link>
+https://www.netlify.com/blog/2016/11/10/3-of-the-most-common-errors-in-react/
+</link>
+<pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/10/3-of-the-most-common-errors-in-react/
+</guid>
+<description>
+Since I began programming I have been writing errors in my code. It is well understood in the programming community that we will write bugs, but most errors in our code come up frequently enough that we can identify the solution rather quickly. React is a JavaScript plugin and no different when it comes to frequent errors. React also does a great job with returning descriptive error messages when you make mistakes while creating your application.
+</description>
+</item>
+<item>
+<title>Sequoia Capital</title>
+<link>https://www.netlify.com/case-studies/sequoia/</link>
+<pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/sequoia/</guid>
+<description/>
+</item>
+<item>
+<title>Sequoia Capital</title>
+<link>
+https://www.netlify.com/site-of-the-week/sequoia-capital/
+</link>
+<pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/site-of-the-week/sequoia-capital/
+</guid>
+<description/>
+</item>
+<item>
+<title>Your guide to migrate from PubStorm to Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/11/03/your-guide-to-migrate-from-pubstorm-to-netlify/
+</link>
+<pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/03/your-guide-to-migrate-from-pubstorm-to-netlify/
+</guid>
+<description>
+PubStorm announced today that they are shutting down service on November 14th. The Nitrous team reached out to Netlify to provide an easy migration path for all of their existing users. Together, we have made sure that anyone who has an account with PubStorm can migrate painlessly to a free account with Netlify. Shutting down a company is a grueling decision and a tough process, but the PubStorm team have gone out of their way to make sure to find the best possible new home for their users.
+</description>
+</item>
+<item>
+<title>Yarn support on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/11/01/yarn-support-on-netlify/
+</link>
+<pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/11/01/yarn-support-on-netlify/
+</guid>
+<description>
+We&rsquo;re very excited to announce full support for Yarn, the dependency manager, on Netlify. Yarn is a dependency manager for JavaScript projects. Although Yarn launched only a month ago, its three main features: speed, security and reproducibility are making this new package to gain popularity very quickly. We&rsquo;ve been following the project very closely and we started using it for our own projects almost since the day it launched. Supporting it as a first class dependency manager in our continuous delivery pipeline was just a matter of time.
+</description>
+</item>
+<item>
+<title>Mercury</title>
+<link>https://www.netlify.com/case-studies/postlight/</link>
+<pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/postlight/</guid>
+<description/>
+</item>
+<item>
+<title>Mercury</title>
+<link>https://www.netlify.com/site-of-the-week/mercury/</link>
+<pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/mercury/</guid>
+<description/>
+</item>
+<item>
+<title>
+Smashing Magazine: How To Issue A New SSL Certificate With An Old SSL Key
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/29/smashing-magazine-how-to-issue-a-new-ssl-certificate-with-an-old-ssl-key/
+</link>
+<pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/29/smashing-magazine-how-to-issue-a-new-ssl-certificate-with-an-old-ssl-key/
+</guid>
+<description>
+Read Full Article on Smashing Our CEO Matt Biilmann on public key pinning. HTTPS is important, but make sure to get your certificates right. Part 2
+</description>
+</item>
+<item>
+<title>The Serverless Framework & AWS Lambda</title>
+<link>
+https://www.netlify.com/blog/2016/10/28/the-serverless-framework--aws-lambda/
+</link>
+<pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/28/the-serverless-framework--aws-lambda/
+</guid>
+<description/>
+</item>
+<item>
+<title>
+A Step-by-Step Guide: Deploying A Static Site or Single-page App
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/
+</link>
+<pubDate>Thu, 27 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/
+</guid>
+<description>
+Do you have a static site or a single-page app that is slow or vulnerable? (Don&rsquo;t know? Test your site at testmysite.io.) Lets fix that up with a quick and easy tutorial on how to take these JAMstack projects and host them on Netlify (where smart CDNs maintain high-octane speeds and impenetrable security for you). In this tutorial, we will be reviewing how to set up your existing Github repo on Netlify for continuous deployment (that means all you have to do is push your code and Netlify will do the rest of your publishing tasks for you).
+</description>
+</item>
+<item>
+<title>
+Smashing Magazine: Be Afraid Of HTTP Public Key Pinning (HPKP)
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/26/smashing-magazine-be-afraid-of-http-public-key-pinning-hpkp/
+</link>
+<pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/26/smashing-magazine-be-afraid-of-http-public-key-pinning-hpkp/
+</guid>
+<description>
+Read Full Article on Smashing Our CEO Matt Biilmann on public key pinning. HTTPS is important, but make sure to get your certificates right. Part 1
+</description>
+</item>
+<item>
+<title>
+Netlify Playground, our first Elm application in production
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/25/netlify-playground-our-first-elm-application-in-production/
+</link>
+<pubDate>Tue, 25 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/25/netlify-playground-our-first-elm-application-in-production/
+</guid>
+<description>
+Did you know that Netlify allows users to set redirection rules and response headers for their sites? We don’t only redirect requests to places you point to, our CDN can act as a proxy for external requests for all sites on Netlify. Although setting those rules in individual files seems straight forward, it can be hard to know when those rules don’t work and why. Those rules are applied every time you deploy on Netlify, which means that you don’t know if they really work until you put them in production.
+</description>
+</item>
+<item>
+<title>Lodash</title>
+<link>https://www.netlify.com/case-studies/lodash/</link>
+<pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/lodash/</guid>
+<description/>
+</item>
+<item>
+<title>Lodash</title>
+<link>https://www.netlify.com/site-of-the-week/lodash/</link>
+<pubDate>Mon, 24 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/lodash/</guid>
+<description/>
+</item>
+<item>
+<title>Building a RESTful API in go</title>
+<link>
+https://www.netlify.com/blog/2016/10/20/building-a-restful-api-in-go/
+</link>
+<pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/20/building-a-restful-api-in-go/
+</guid>
+<description>
+Microservice series: RESTful API This is a continuation of a series on building out a microservice in Golang. It builds on the seltzer project created in part 1 of this series. In part one, we laid in the code structure for commands, configuration and logging. For this article we are going to add a simple REST API that uses JWT tokens for authentication. Want to see what it looks like at the end?
+</description>
+</item>
+<item>
+<title>How Our Build Bots Build Sites</title>
+<link>
+https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/
+</link>
+<pubDate>Tue, 18 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/18/how-our-build-bots-build-sites/
+</guid>
+<description>
+At Netlify, we believe in the simplicity of the JAMstack, and we are thrilled that you are contributing to the success of the stack along with us. Developing sites can be simple, but once you start thinking outside of the box, you’re probably using more than one framework, more than a few modules in the language that your site generator is written in, and some of your own code to glue them together.
+</description>
+</item>
+<item>
+<title>Sphero</title>
+<link>https://www.netlify.com/case-studies/sphero/</link>
+<pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/case-studies/sphero/</guid>
+<description/>
+</item>
+<item>
+<title>Sphero</title>
+<link>https://www.netlify.com/site-of-the-week/sphero/</link>
+<pubDate>Mon, 17 Oct 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/site-of-the-week/sphero/</guid>
+<description/>
+</item>
+<item>
+<title>
+NS1: Netlify Leverages NS1 to Improve Performance Across More Than 60,000 Sites
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/16/ns1-netlify-leverages-ns1-to-improve-performance-across-more-than-60000-sites/
+</link>
+<pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/16/ns1-netlify-leverages-ns1-to-improve-performance-across-more-than-60000-sites/
+</guid>
+<description>
+Read Full Article on NS1 Our head of infrastructure Ryan Neal write on how the right DNS setup drastically increases performance.
+</description>
+</item>
+<item>
+<title>Designing For The Modern Web</title>
+<link>
+https://www.netlify.com/blog/2016/10/13/designing-for-the-modern-web/
+</link>
+<pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/13/designing-for-the-modern-web/
+</guid>
+<description>Rafaels Vlog Hario Water Brew Coffee Pot</description>
+</item>
+<item>
+<title>
+Serverless JAM - A Serverless Framework Tutorial (Part 2)
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/13/serverless-jam---a-serverless-framework-tutorial-part-2/
+</link>
+<pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/13/serverless-jam---a-serverless-framework-tutorial-part-2/
+</guid>
+<description>
+In the last years, browsers have become powerful platforms to develop web projects. We don&rsquo;t need dynamic pages delivered by application servers to create user interaction, and with the explosion of anything-as-a-service, you can integrate anything, from form handling to shopping carts using service APIs (This is what we call the “JAMstack” - short for JavaScript, APIs and Markup). Sometimes, though, we still need some custom tailored piece of backend functionality, which can now be build on a serverless architecture.
+</description>
+</item>
+<item>
+<title>Integrating With Netlify: OAuth2</title>
+<link>
+https://www.netlify.com/blog/2016/10/10/integrating-with-netlify-oauth2/
+</link>
+<pubDate>Mon, 10 Oct 2016 14:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/10/integrating-with-netlify-oauth2/
+</guid>
+<description>
+Netlify has an extensive developer API that enables anybody to build integrations and services on top of our service. Since Netlify is an OAuth2 provider, you can use this API to build services that Netlify users can authorize to operate on their behalf, whether they want you to publish projects, add snippets to their sites, install Webhooks or the like. The typical OAuth2 flow works like this: User clicks a link or button in your app, requesting to do an action on Netlify.
+</description>
+</item>
+<item>
+<title>Introducing Our Domain Dashboard</title>
+<link>
+https://www.netlify.com/blog/2016/10/06/introducing-our-domain-dashboard/
+</link>
+<pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/06/introducing-our-domain-dashboard/
+</guid>
+<description>
+At Netlify, we believe in enabling people to build and deploy modern websites in the most simple way. Continuous delivery and one-click setup of TLS certificates were two big steps forward our mission. However, there are still things people struggle with, especially around configuring DNS records. Understanding how DNS works is fundamental to understanding how the Internet works and sequential to how to setup any website. Unfortunately, dealing with different DNS providers and custom configurations is still a problem for a lot of people.
+</description>
+</item>
+<item>
+<title>Access Local Environment Variables using Webpack</title>
+<link>
+https://www.netlify.com/blog/2016/10/04/access-local-environment-variables-using-webpack/
+</link>
+<pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/04/access-local-environment-variables-using-webpack/
+</guid>
+<description>
+Building a Frontend JavaScript application in any framework will most like have you using a modern build tool like Gulp or Webpack. Netlify allows you to add environment variables to your build so you can define the way your site is built. In addition to the variables you choose to define, Netlify has a number of pre-defined variables saved in our own UI: The only downside to this UI only approach is that you are unable to access those variables in your local development environment.
+</description>
+</item>
+<item>
+<title>
+Angular to React: Gradual Migration vs Rewrite From Scratch
+</title>
+<link>
+https://www.netlify.com/blog/2016/10/04/angular-to-react-gradual-migration-vs-rewrite-from-scratch/
+</link>
+<pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/10/04/angular-to-react-gradual-migration-vs-rewrite-from-scratch/
+</guid>
+<description>
+Arik Fraimovich (creator of the excellent Redash tool), asked some good questions about our migration from Angular 1 to React (covered in or our 3 part article series on Converting from Angular to React) on Twitter: I read @Netlify&#39;s blog post, but will I want to understand how long it took &amp; are they happy w/ the decision to do it from scratch. &mdash; Arik Fraimovich (@arikfr) October 2, 2016 I made a quick reply on Twitter, but obviously this is a big enough subject that doing a full retrospective on the process definitely doesn&rsquo;t fit in a tweet.
+</description>
+</item>
+<item>
+<title>Reseller Documentation</title>
+<link>https://www.netlify.com/docs/reseller/</link>
+<pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/reseller/</guid>
+<description>
+Reseller Documentation Welcome to Netlify&rsquo;s reseller platform! As a reseller you can issued API tokens that provides access to publish to your own instance of Netlify&rsquo;s API, with very high API rate limits and a setup that doesn&rsquo;t distinguish between free or paid sites (ie, no callouts when adding custom domains). As a reseller you have access to all of the normal API documented at in the API docs.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Deploying on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
+</link>
+<pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/
+</guid>
+<description>
+Today, let&rsquo;s take a look at how to host a static website on Netlify, including setting up continuous deployment. TL;DR &ldquo;Just set it and forget it.&rdquo; Getting started on Netlify In this section, we will show you how easy it is to launch your site on Netlify. If you are not already a Netlify user, go ahead and sign up for free here first. Step 1: Add Your New Site Creating a new site on Netlify is simple.
+</description>
+</item>
+<item>
+<title>Refactoring towards Pure Components in React</title>
+<link>
+https://www.netlify.com/blog/2016/09/27/refactoring-towards-pure-components-in-react/
+</link>
+<pubDate>Tue, 27 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/27/refactoring-towards-pure-components-in-react/
+</guid>
+<description>
+Since working with React I have noticed a frequent change in the way Components are written. I have always had a preference for writing in the ES6 style component, coming from writing exclusively JavaScript in the Ember framework. I am currently rewriting some code for the Netlify site and see some low hanging fruit for the use of Pure Components. For those unfamiliar there a few type of Components in React:
+</description>
+</item>
+<item>
+<title>The JAMstack Radio</title>
+<link>
+https://www.netlify.com/blog/2016/09/23/the-jamstack-radio/
+</link>
+<pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/23/the-jamstack-radio/
+</guid>
+<description>
+The idea around building websites using APIs and modern build tools have been challenging to explain. The truth is static sites today are no longer just static, They are highly dynamic web applications and single-page apps. Some can also be big content-driven sites that just use tools, like Contentful instead of a traditional monolithic dynamic CMS. Whether you are building a static using a generator or a new JavaScript framework, it&rsquo;s hard to identify this type project with a word that actually meant something and had a relation to what people were building.
+</description>
+</item>
+<item>
+<title>Making Netlify's website fully searchable</title>
+<link>
+https://www.netlify.com/blog/2016/09/22/making-netlifys-website-fully-searchable/
+</link>
+<pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/22/making-netlifys-website-fully-searchable/
+</guid>
+<description>
+Today, we deployed a change in Netlify&rsquo;s website to make it fully searchable. Finding content in this blog and the documentation is just a few keystrokes away. Click in the search icon in the top navigation bar and start typing, the search will populate the most relevant content it finds. However, if you don&rsquo;t feel like using the mouse, just start typing, right now! We&rsquo;d love to hear your feedback about the content we publish.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Victor-Hugo on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/
+</link>
+<pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netlify/
+</guid>
+<description>
+Today, let&rsquo;s take a look at how to host a static website using Hugo on Netlify, including setting up continuous deployment. In this tutorial we will be using Victor Hugo (a continually-maintained Hugo boilerplate) to build our static site. To get started, let&rsquo;s make sure you have all the tools you&rsquo;ll need. Go ahead and download Victor Hugo here. If you already have a Hugo site set up, you can skip straight to the Connecting to Netlify section.
+</description>
+</item>
+<item>
+<title>Serverless JAM - A Serverless Framework Tutorial</title>
+<link>
+https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/
+</link>
+<pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/
+</guid>
+<description>
+Finding a modern toolset to create truly fast, secure and dynamic sites has been an endless search. With JAMstack and the Serverless approach, we have just that. JAMstack sites are fast and secure by nature, and while they are static, 90% of the features that once required a custom backend can now be done entirely on the front-end or are available as APIs and external services. And that missing 10%?
+</description>
+</item>
+<item>
+<title>The JAMstack Origin Story</title>
+<link>
+https://www.netlify.com/blog/2016/09/15/the-jamstack-origin-story/
+</link>
+<pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/15/the-jamstack-origin-story/
+</guid>
+<description>
+Static Web Tech Phenomic Gatsby.js StaticGen - Top Open-Source Static Site Generators Weather Report Song Explodeer
+</description>
+</item>
+<item>
+<title>Grouping Immutable Deploy Data</title>
+<link>
+https://www.netlify.com/blog/2016/09/13/grouping-immutable-deploy-data/
+</link>
+<pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/13/grouping-immutable-deploy-data/
+</guid>
+<description>
+We recently wrapped up a UI update to the deploys page and laid our Cards on the Table. Netlify practices the JAMstack philosophy when building websites, including the one you are reading right now ?? Which means, we have an API that populates everything on our new &ldquo;/deploys&rdquo; screen. I was tasked with updating the data from a boring list (below) of deploys, to a new list grouped by date (above and fancy).
+</description>
+</item>
+<item>
+<title>Creating a Microservice Boilerplate in Go</title>
+<link>
+https://www.netlify.com/blog/2016/09/06/creating-a-microservice-boilerplate-in-go/
+</link>
+<pubDate>Tue, 06 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/06/creating-a-microservice-boilerplate-in-go/
+</guid>
+<description>
+Microservice series: Configuration Microservice architectures have become a common way to design systems; they just require some rote code. Following that single purpose model allows the system to grow organically, adding features as they make sense. These services often have a common structure; it is a lot of boiler plate code. In Go there are some frameworks, but generally they&rsquo;re very complicated. I am going to run through building up and using the boiler plate we use for our services.
+</description>
+</item>
+<item>
+<title>A Game of Cards</title>
+<link>
+https://www.netlify.com/blog/2016/09/01/a-game-of-cards/
+</link>
+<pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/01/a-game-of-cards/
+</guid>
+<description>
+Two weeks ago we released a new and improved user interface for our Deploys screen. We are excited to share our new design components and a structure that will empower many of our future efforts by delivering a clean and obvious interface for our users. With our new features – Deploy Previews, Gitlab Integration – the user interface of the Deploys page simply wasn’t keeping up. This fact, and that the deploys page is our most visited page, meant that the design team had to go back to the drawing board.
+</description>
+</item>
+<item>
+<title>Introducing JAMstack Radio</title>
+<link>
+https://www.netlify.com/blog/2016/09/01/introducing-jamstack-radio/
+</link>
+<pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/09/01/introducing-jamstack-radio/
+</guid>
+<description/>
+</item>
+<item>
+<title>Introducing Deploy Contexts in Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/08/30/introducing-deploy-contexts-in-netlify/
+</link>
+<pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/30/introducing-deploy-contexts-in-netlify/
+</guid>
+<description>
+Launching Deploy Previews last month was an amazing moment for us. Many people told us how this feature is improving their development workflows. The @netlify deploy preview stuff is amazing. I’ll be forever grateful to @jessfraz for pointing it out. Or at least for, I dunno, a month? &mdash; Matt Stratton (@mattstratton) August 24, 2016 However, deploying every branch in a Git repository has its consequences and new challenges.
+</description>
+</item>
+<item>
+<title>Grouping Immutable Deploy Data</title>
+<link>
+https://www.netlify.com/blog/2016/08/24/grouping-immutable-deploy-data/
+</link>
+<pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/24/grouping-immutable-deploy-data/
+</guid>
+<description>
+We recently wrapped up a UI update to the deploys page and laid our Cards on the Table. Netlify practices the JAMstack philosophy when building websites, including the one you are reading right now ?? Which means, we have an API that populates everything on our new &ldquo;/deploys&rdquo; screen. I was tasked with updating the data from a boring list (below) of deploys to a new list grouped by date (above and fancy).
+</description>
+</item>
+<item>
+<title>August 22nd DDoS Learning Review</title>
+<link>
+https://www.netlify.com/blog/2016/08/23/august-22nd-ddos-learning-review/
+</link>
+<pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/23/august-22nd-ddos-learning-review/
+</guid>
+<description>
+Currently Netlify will serve sites in two ways that are very different and worth being aware of: Netlify CDN - this is a global infrastructure with PoPs all over the world and the dynamic traffic direction system that routes users to the closest geographical location. Central Load balancer - this is an IP we make available so people have a target for A records when configuring their DNS. Until this Monday, Aug 22nd, this Load Balancer was provisioned in Rackspace’s Chicago datacenter.
+</description>
+</item>
+<item>
+<title>Converting Angular to React, JSX</title>
+<link>
+https://www.netlify.com/blog/2016/08/17/converting-angular-to-react-jsx/
+</link>
+<pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/17/converting-angular-to-react-jsx/
+</guid>
+<description>
+React introduces an entirely new markup, JSX. JSX is short for JavaScript XML and resembles XMl in a way but operates very similar to HTML. I very briefly mentioned JSX in the first post of this series, and provided the following example: // jsx sample render() { return ( &lt;Form&gt; &lt;FormRow&gt; &lt;FormLabel /&gt; &lt;FormInput /&gt; &lt;/FormRow&gt; &lt;/Form&gt; ); ) The idea of including markup amongst JavaScript seemed foreign and even began a point of contention for me.
+</description>
+</item>
+<item>
+<title>
+Netlify Raises $2.1M from the founders of GitHub, Heroku, and Rackspace Cloud
+</title>
+<link>
+https://www.netlify.com/blog/2016/08/16/netlify-raises-2.1m-from-the-founders-of-github-heroku-and-rackspace-cloud/
+</link>
+<pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/16/netlify-raises-2.1m-from-the-founders-of-github-heroku-and-rackspace-cloud/
+</guid>
+<description>
+Our Story Back when the two of us started Netlify, it was with a strong belief that static sites, heavily based on Javascript, external APIs and markup (or, as we like to call it, JAMstack) should power the majority of all sites and apps. That still holds true today. Over the last five years, we&rsquo;ve seen the way front-end developers work change dramatically. Modern build-tools ranging from static site generators to JavaScript tooling like webpack and gulp have changed how web front-ends are built.
+</description>
+</item>
+<item>
+<title>
+From Unstable to Reliable: A Release Engineering Journey
+</title>
+<link>
+https://www.netlify.com/blog/2016/08/11/from-unstable-to-reliable-a-release-engineering-journey/
+</link>
+<pubDate>Thu, 11 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/11/from-unstable-to-reliable-a-release-engineering-journey/
+</guid>
+<description>
+Releasing software is treacherous - let us help. As the saying goes there are only two real problems in computer science: - Naming Things - Cache Invalidation - Off-by-one errors Caching keeps the internet from being painfully slow. It’s a requirement of any high performance site, the closer you can get the bits and bytes of a site to the user, the better the experience. And we all know better user experience directly translates to more dollars.
+</description>
+</item>
+<item>
+<title>New backend-less form submissions tab in Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/08/04/new-backend-less-form-submissions-tab-in-netlify/
+</link>
+<pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/04/new-backend-less-form-submissions-tab-in-netlify/
+</guid>
+<description>
+See the submissions for your backend-less forms directly on Netlify. Did you know that Netlify can handle form submissions for you without requiring complicated backends? Every site in a paid or Open Source plan can take advantage of this feature! To be honest, it&rsquo;s a great feature that has always been slightly hidden from everyone. So, we decided to give it more visibility. After creating a new form, you&rsquo;ll be able to access all the submissions you recieve directly in the new Forms tab.
+</description>
+</item>
+<item>
+<title>User Generated Content</title>
+<link>
+https://www.netlify.com/blog/2016/08/03/user-generated-content/
+</link>
+<pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/03/user-generated-content/
+</guid>
+<description>
+Recently we’ve seen some very exciting feedback from our Netlify family. We’d like to encourage our users to help each other in their creation of a JAMstack, so we have an offer we will keep open for 10 days! **Create a piece of content for us - and receive an Amazon gift card.** Below you’ll find a couple tiers of user content we are looking for with descriptions of possible examples, don’t feel like you have to limit yourself to these examples.
+</description>
+</item>
+<item>
+<title>Migrate GitHub Pages to Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/08/02/migrate-github-pages-to-netlify/
+</link>
+<pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/08/02/migrate-github-pages-to-netlify/
+</guid>
+<description>
+Move from GitHub Pages to Netlify in with just a few commands! In this post I’ll show you how easy it is to migrate your GitHub page to Netlify. I’ll be using my personal project (github pages &amp; netlify pages) as an example. The project is a simple site that has no build necessary, the markup is all just in the root directory. These steps assume that you have node and npm installed on your machine already.
+</description>
+</item>
+<item>
+<title>
+Netlify's PRO Plan now Free for Open-Source Projects
+</title>
+<link>
+https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/
+</link>
+<pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/28/netlifys-pro-plan-now-free-for-open-source-projects/
+</guid>
+<description>
+Disclosure: As of June 28, 2017 we’ve made changes to our pricing structure.  *We no longer offer a Pro plan, however that entire (previously paid) feature set + so much more is now available on our Bronze plan. * Sign up and try it out for free! Today we&rsquo;re happy to announce a series of changes to our plans and pricing to make Netlify even more attractive to developers of all kinds.
+</description>
+</item>
+<item>
+<title>Converting Angular to React, Exploring The Basics</title>
+<link>
+https://www.netlify.com/blog/2016/07/27/converting-angular-to-react-exploring-the-basics/
+</link>
+<pubDate>Wed, 27 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/27/converting-angular-to-react-exploring-the-basics/
+</guid>
+<description>
+From my experience, Angular Controllers can easily get very heavy with the logic and complicated to tests, due to a large amount of direct dependency injection. React solves this elegantly with the use of Components that are aware of props and states. At Netlify our app was Angular 1.x and with a completely redone Angular 2 on the horizon, we got to thinking about trying something new. In the previous post, I explored the steps we took to prepare our app for React and in this post I will show some basic things in React.
+</description>
+</item>
+<item>
+<title>Our conversion from Angular to React</title>
+<link>
+https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react/
+</link>
+<pubDate>Tue, 26 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/26/our-conversion-from-angular-to-react/
+</guid>
+<description>
+Did you notice we switched all our code from Angular to React last week? *This the first post of 3 part series on how we converted on site to React. Angular has gained a large amount of popularity in the JavaScript ecosystem in the last few years. The original version of Netlify.com was actually released as an Angular 1.3 app. Angular has gone through a number of changes in the last year including the release of a new Angular 2.
+</description>
+</item>
+<item>
+<title>Deploy React Apps in less than 30 Seconds</title>
+<link>
+https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/
+</link>
+<pubDate>Fri, 22 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/
+</guid>
+<description>
+At Netlify we use React in production and are familiar with the challenges in deploying it to production as well. Up until today, React has had no opinions on what to use with tooling, which has made deploying a unique problem to each project. Today Facebook announced their opinated boiler-plate for getting React projects started. This is great news, since the ecosystem around getting React projects started has been in a state of Flux (see what I did there?
+</description>
+</item>
+<item>
+<title>Introducing Deploy Previews in Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/
+</link>
+<pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/20/introducing-deploy-previews-in-netlify/
+</guid>
+<description>
+There is a better way to build for the web and collaborate with your team. For years, developers have enjoyed the benefits of practices like Continuous Integration and Continuous Delivery in their workflows. Unfortunately, traditional hosting platforms only allow you to deploy your sites to the same URL every time. You need to manually create new sites to allocate new URLs if you test and verify changes before putting them into production.
+</description>
+</item>
+<item>
+<title>Shiny Slack notifications from Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/07/18/shiny-slack-notifications-from-netlify/
+</link>
+<pubDate>Mon, 18 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/18/shiny-slack-notifications-from-netlify/
+</guid>
+<description>
+Did you know that you can get notifications in Slack every time you deploy a site on Netlify? The messages were a bit sparse in content and format, so we decided to invest some time playing with learning about Slack’s awesome message builder. The new messages include information about the deployed site, as well as links to the production url, build log and when we sent the message. There are three types of messages you can get for deployed sites on Netlify.
+</description>
+</item>
+<item>
+<title>GitLab integration for Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/07/13/gitlab-integration-for-netlify/
+</link>
+<pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/07/13/gitlab-integration-for-netlify/
+</guid>
+<description>
+We are very excited to announce that you can use GitLab to authenticate and deploy repositories in Netlify. With GitLab’s increased popularity, we&rsquo;ve received a great deal of requests to integrate their service into Netlify. Starting today, in addition to GitHub and Bitbucket, you&rsquo;ll be able to choose GitLab when you signup and create new sites in Netlify. We&rsquo;re very excited to help more developers craft their sites and web applications.
+</description>
+</item>
+<item>
+<title>Five SEO Rules for Your JAMstack Site</title>
+<link>
+https://www.netlify.com/blog/2016/06/17/five-seo-rules-for-your-jamstack-site/
+</link>
+<pubDate>Fri, 17 Jun 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/06/17/five-seo-rules-for-your-jamstack-site/
+</guid>
+<description>
+One of the first arguments thrown around about sites built with static site generators is that they aren&rsquo;t SEO friendly. But don&rsquo;t worry, that doesn&rsquo;t have to be the case. Let&rsquo;s look at ways to make sure your JAMstack site is at the top of its SEO game. The biggest draw for SEO in 2016 is high quality content, specifically long-form content that meets the needs of your users. Unfortunately (or maybe fortunately for those of you who make your living as content creators) static site generators and modern build tools can&rsquo;t write your content for you.
+</description>
+</item>
+<item>
+<title>Setting Up Your JAMstack from Scratch</title>
+<link>
+https://www.netlify.com/blog/2016/06/07/setting-up-your-jamstack-from-scratch/
+</link>
+<pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/06/07/setting-up-your-jamstack-from-scratch/
+</guid>
+<description>
+So you&rsquo;ve heard about the JAMstack for front-end development, and have been convinced that this is the best way to develop and host sites and applications. But how do you get started? Here at Netlify, we realize that not everyone is a JAMstack developer (yet). So if you are at a loss as to how to get started, we&rsquo;re here to help. What follows is a super basic starting place for brand new JAMstack developers.
+</description>
+</item>
+<item>
+<title>Lektor on Netlify - A Step-By-Step Guide</title>
+<link>
+https://www.netlify.com/blog/2016/05/25/lektor-on-netlify---a-step-by-step-guide/
+</link>
+<pubDate>Wed, 25 May 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/05/25/lektor-on-netlify---a-step-by-step-guide/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Lektor on Netlify, including setting up continuous deployment. The interesting thing about Lektor is that it comes with a built-in GUI CMS and a Mac app. This makes content creation less daunting for newer users. Let&rsquo;s start from scratch. If you already have a Lektor site set up, you can skip straight to the Preparing for deployment or Connecting to Netlify sections.
+</description>
+</item>
+<item>
+<title>5 Bulls**t Reasons Not to Use a Static Generator</title>
+<link>
+https://www.netlify.com/blog/2016/05/24/5-bullst-reasons-not-to-use-a-static-generator/
+</link>
+<pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/05/24/5-bullst-reasons-not-to-use-a-static-generator/
+</guid>
+<description>
+Often, when you read lists about reasons to use a static website generator, they are followed by a list of reasons why you shouldn&rsquo;t. Other times, when you are researching static vs. dynamic, you&rsquo;ll stumble across a grammatically challenged site where some WordPress developer is trying to convince you that using cutting-edge, modern build tools will somehow be the death knell of your site. For obvious reasons, we don&rsquo;t agree. But rather than stick our fingers in our ears and pretend we can&rsquo;t hear, let&rsquo;s take a look at the points most often raised against static web technology.
+</description>
+</item>
+<item>
+<title>9 Reasons Your Site Should Be Static</title>
+<link>
+https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/
+</link>
+<pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/05/18/9-reasons-your-site-should-be-static/
+</guid>
+<description>
+Your website is overkill, and it&rsquo;s killing your traffic. There&rsquo;s no reason to have a massive, unwieldy CMS with a database when you could have a fast, secure and beautiful static site. But how can you decide if a static site is right for you? 1. You Value Security When was the last time you updated your CMS software and plugins? By conservative estimate, 70% of all WordPress installs are vulnerable to known security exploits.
+</description>
+</item>
+<item>
+<title>Top Ten Static Website Generators</title>
+<link>
+https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/
+</link>
+<pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/05/02/top-ten-static-website-generators/
+</guid>
+<description>
+These days, speed and security is the name of the game. Website visitors abandon sites after just a second or two of delay, and database hacks have become commonplace. Just look at the news to see the latest scandal laid bare by hackers who gained access to sensitive information due to poorly maintained WordPress or Drupal installs. That&rsquo;s why developers, agencies and producers of web content are turning to static website generators.
+</description>
+</item>
+<item>
+<title>
+How to Shop With Static: Open Source eCommerce with Flatmarket
+</title>
+<link>
+https://www.netlify.com/blog/2016/04/28/how-to-shop-with-static-open-source-ecommerce-with-flatmarket/
+</link>
+<pubDate>Thu, 28 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/28/how-to-shop-with-static-open-source-ecommerce-with-flatmarket/
+</guid>
+<description>
+Your website&rsquo;s store is painfully slow, and it&rsquo;s costing you money. According to a KISSMetrics study, 40% of shoppers will abandon a website that takes longer than 3 seconds to load, and 47% expect a site to load in less than two. That&rsquo;s a problem for most eCommerce sites, which are almost always absolutely dependent on heavy back-end databases. But now, you can harness the speed, security and reliability of a static site to run your online store.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Phenomic on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/04/19/a-step-by-step-guide-phenomic-on-netlify/
+</link>
+<pubDate>Tue, 19 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/19/a-step-by-step-guide-phenomic-on-netlify/
+</guid>
+<description>
+Today, we’re going to look at how to host a website built with Phenomic on Netlify, including setting up continuous deployment. Phenomic is a new static site generator built with ReactJS. React is a hugely popular javascript framework created in-house at Facebook. Let’s start from scratch (if you already have a Phenomic site set up, you can skip down to here). Before you get started, know that Phenomic uses requires at least npm v3.
+</description>
+</item>
+<item>
+<title>
+Developing with ReactJS: An Interview with Gatsby's Kyle Mathews
+</title>
+<link>
+https://www.netlify.com/blog/2016/04/18/developing-with-reactjs-an-interview-with-gatsbys-kyle-mathews/
+</link>
+<pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/18/developing-with-reactjs-an-interview-with-gatsbys-kyle-mathews/
+</guid>
+<description>
+With the backing of Facebook, the React programming language has made a huge splash in the last few years. React is used by Netflix, Imgur, Feedly, AirBnB and more. It exploded in popularity when Facebook open-sourced its Android- and iOS-focused kin React Native in March of 2015. One developer who has taken advantage of the toolkit on offer is Kyle Mathews, the creator of GatsbyJS. Mathews spoke to Netlify after the most recent Static Web Tech Meetup about the benefits of Gatsby, his love for development with React and the idea of JavaScript fatigue.
+</description>
+</item>
+<item>
+<title>
+Make Your Site Faster with Netlify's Intelligent CDN
+</title>
+<link>
+https://www.netlify.com/blog/2016/04/15/make-your-site-faster-with-netlifys-intelligent-cdn/
+</link>
+<pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/15/make-your-site-faster-with-netlifys-intelligent-cdn/
+</guid>
+<description>
+At Netlify, we make a very big deal about speed. Sites on Netlify are extremely fast, no matter where you are. Part of that is the tools used to build those sites, but an even bigger part is our CDN&ndash;or to be more precise, our CDNs, plural. Content Delivery Networks (CDNs) are pretty simple - they function as local asset dumps. You pay for some bandwidth, and your images, videos and downloadable content sit there, in multiple places around the globe, taking the load off the server that serves up your page.
+</description>
+</item>
+<item>
+<title>
+Installing Your Own SSL Certificates: A Step-by-Step Guide
+</title>
+<link>
+https://www.netlify.com/blog/2016/04/11/installing-your-own-ssl-certificates-a-step-by-step-guide/
+</link>
+<pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/11/installing-your-own-ssl-certificates-a-step-by-step-guide/
+</guid>
+<description>
+Netlify offers free 1-click SSL with LetsEncrypt. It&rsquo;s the very definition of easy. But some of our customers have reasons for using their own certificates procured from an SSL Certificate Authority. If you are one of those customers, we&rsquo;ll show you how to install your own certificate here. Log in to app.netlify.com and choose your site. First, make sure that your custom domain has been set. The domain name of your site must match the domain name on the SSL certificate.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Cactus on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/04/08/a-step-by-step-guide-cactus-on-netlify/
+</link>
+<pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/08/a-step-by-step-guide-cactus-on-netlify/
+</guid>
+<description>
+Let&rsquo;s take a look at building a site with Cactus, including continuous deployment. Cactus is a modern build tool that runs on Python and uses Django&rsquo;s templating engine. Cactus has a lot of tricks up its sleeve, and even has a Mac app. The app doesn&rsquo;t work out of the box with Netlify, so there are a few quick changes you&rsquo;ll need to make before you can deploy. Jump to Created with Cactus App to make those changes.
+</description>
+</item>
+<item>
+<title>
+Interview with Thomas Reynolds, Creator of Middleman
+</title>
+<link>
+https://www.netlify.com/blog/2016/04/01/interview-with-thomas-reynolds-creator-of-middleman/
+</link>
+<pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/04/01/interview-with-thomas-reynolds-creator-of-middleman/
+</guid>
+<description>
+Thomas Reynolds is the Technical Director at famed Portland digital agency Instrument. He’s also the creator of Middleman, one of the most widely used static site generators for large enterprise sites like MailChimp, Sequoia Capitol and Vox Media. Reynolds recently did a massive overhaul for Middleman v4.0, and presented his changes and thoughts on the category at this month&rsquo;s SF Static Web Tech Meetup. Following the meetup, Reynolds took a few minutes to talk to Netlify about Middleman&rsquo;s humble beginnings, the benefits of a git-centric workflow, and why he prefers developing with modern web technologies.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Sculpin on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/03/29/a-step-by-step-guide-sculpin-on-netlify/
+</link>
+<pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/29/a-step-by-step-guide-sculpin-on-netlify/
+</guid>
+<description>
+Today we&rsquo;ll take a look at how to install and setup a basic Sculpin blog site with assets on GitHub, in continuous deployment on Netlify. Sculpin is a fast static site generator, which uses Twig templates, built on Symfony&rsquo;s HTTP Kernel and written in PHP. It&rsquo;s arguably the most mature and well documented static site generator written in PHP. For those unaware, PHP is a serverside language based on C and has long been used to make dynamic homepages.
+</description>
+</item>
+<item>
+<title>Setting up Your Custom Domain</title>
+<link>
+https://www.netlify.com/blog/2016/03/14/setting-up-your-custom-domain/
+</link>
+<pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/14/setting-up-your-custom-domain/
+</guid>
+<description>
+So you&rsquo;ve splashed out on a personal domain, and want to connect it to your site hosted on Netlify. Great! Here, we&rsquo;ll walk you through how to connect your site to your custom domain from most of the popular domain name registrars. First, you want to tell Netlify to use your custom domain. You can do this through the web UI by clicking &ldquo;Edit domain&rdquo; when viewing your site.
+</description>
+</item>
+<item>
+<title>Interview with Parker Moore from Jekyll</title>
+<link>
+https://www.netlify.com/blog/2016/03/11/interview-with-parker-moore-from-jekyll/
+</link>
+<pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/11/interview-with-parker-moore-from-jekyll/
+</guid>
+<description>
+While there is a constantly growing roster of static web tools available for developers of both the professional and amateur stripe, none swings as much weight or garners as much attention as Jekyll. Its popularity is no surprise, considering Jekyll was created by one of the cofounders of GitHub and is the engine that powers GitHub pages. Recently we witnessed the launch of Jekyll 3.0, with the final commit being pushed live during a talk by current Jekyll lead Parker Moore at the October edition of the Static Web MeetUp in Wikia&rsquo;s San Francisco office.
+</description>
+</item>
+<item>
+<title>Go Static Without Losing Your Server</title>
+<link>
+https://www.netlify.com/blog/2016/03/10/go-static-without-losing-your-server/
+</link>
+<pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/10/go-static-without-losing-your-server/
+</guid>
+<description>
+How we made Giving What We Can’s switch to Netlify really easy. Giving What We Can is a charity that encourages people to give more, and give more effectively to charity. We’re part of the effective altruism movement, using reason and evidence to find the best opportunities for giving. Our website is critical to our success — it’s how people learn about our work, and where they go to take our pledge to give 10% of their income to the best charities in the world.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Nanoc on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/03/08/a-step-by-step-guide-nanoc-on-netlify/
+</link>
+<pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/08/a-step-by-step-guide-nanoc-on-netlify/
+</guid>
+<description>
+Up until recently I had never even heard of Nanoc. I stumbled upon this gem of gems (pun intended), while searching for a well documented static site generator with on-going support and a live community. Nanoc has both in abundance and after checking out their up-to-date and aesthetically pleasing documentation, I quickly grew to like this extremely easy to use static site generator. In this little guide, we will set up Nanoc and check out its site generation abilities and once we&rsquo;re up and running locally, we will push the project to GitHub and deploy on Netlify with continuous deployment.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Punch on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/03/04/a-step-by-step-guide-punch-on-netlify/
+</link>
+<pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/04/a-step-by-step-guide-punch-on-netlify/
+</guid>
+<description>
+Today we’ll take a look at Punch. Punch is a static site generator that bills itself as “a simple, intuitive web publishing framework that will delight both designers and developers.” Punch is written in javascript with node.js and what immediately stands out, is its user friendliness and good basic documentation to get you started, while it takes only a few minutes to set up. It’s not much too different from other node.
+</description>
+</item>
+<item>
+<title>Interview with Geoff Kimball of ZURB Foundation</title>
+<link>
+https://www.netlify.com/blog/2016/03/03/interview-with-geoff-kimball-of-zurb-foundation/
+</link>
+<pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/03/03/interview-with-geoff-kimball-of-zurb-foundation/
+</guid>
+<description>
+Foundation hit the scene in 2011 when interaction design company ZURB decided to create a responsive front-end framework for development. Fast forward to today, and one open-source project is now three: Foundation for Sites, Foundation for Apps, and Foundation for Email. With the release of Foundation 6 and the static site generator Panini, ZURB designer Geoff Kimball presented the new iteration at the Static Web Tech Meetup, and took time to talk to Netlify about his preference for streamlining the build process, Gulp vs.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Gatsby on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/
+</link>
+<pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/
+</guid>
+<description>
+Today, we’re going to look at how to host a website built with Gatsby on Netlify, including setting up continuous deployment. Gatsby is a new static site generator, but it’s gaining traction fast! It’s made in what’s probably the only thing as hot as Google’s ‘go’ right now, React.js. React is a hugely popular javascript framework out of Facebook. Let’s start from scratch (if you already have a Gatsby site set up, you can skip down to here).
+</description>
+</item>
+<item>
+<title>An Interview with Wade Warren</title>
+<link>
+https://www.netlify.com/blog/2016/02/24/an-interview-with-wade-warren/
+</link>
+<pubDate>Wed, 24 Feb 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/02/24/an-interview-with-wade-warren/
+</guid>
+<description>
+Wade Warren is a central figure when it comes to…well, the internet. Over 30 years in the technology world he&rsquo;s been a part of 4 IPOs, more than 20 mergers and acquisitions, involved in the creation of what became the Apache webserver at Organic, kicking ass at LoudCloud building the foundation for OpsWare, scaling the infrastructure at Netflix to a massive percentage of all broadband usage, heading operations at VeriSign, and now at Wikia, where he serves as the Vice President of Platform Engineering.
+</description>
+</item>
+<item>
+<title>A World’s First. Free SSL with Let’s Encrypt</title>
+<link>
+https://www.netlify.com/blog/2016/01/15/a-worlds-first.-free-ssl-with-lets-encrypt/
+</link>
+<pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/01/15/a-worlds-first.-free-ssl-with-lets-encrypt/
+</guid>
+<description>
+Here’s some news we’re really excited about! Starting today, we’re offering Free SSL to all our users. As the first hosting service in the world, Netlify offers full integration with Let’s Encrypt. With one click install, HTTPS will instantly be available for your sites on all our CDN nodes, and Netlify automatically handles renewals. Promoting security as a default is really important to us, and SSL has become a must for a number of reasons, like improvement of SEO, better analytics, and of course protection of both users and content.
+</description>
+</item>
+<item>
+<title>DDos Postmortem, 2016-01-13</title>
+<link>
+https://www.netlify.com/blog/2016/01/13/ddos-postmortem-2016-01-13/
+</link>
+<pubDate>Wed, 13 Jan 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/01/13/ddos-postmortem-2016-01-13/
+</guid>
+<description>
+Follow-up on the last days distributed denial of service attacks against our infrastructure. Tuesday January 12 at 4:50pm PST we got alerted to an incoming DDoS attack. The attack started on the east coast and expanded into a massive DDoS attack simultaneously targeting CDN nodes in New York, San Francisco, Amsterdam and Chicago. It seemed like a clear escalation from the DDoS attack Saturday that only affected our main load balancer.
+</description>
+</item>
+<item>
+<title>
+This Weekend's DDoS Attack and What's in a (C)Name?
+</title>
+<link>
+https://www.netlify.com/blog/2016/01/12/this-weekends-ddos-attack-and-whats-in-a-cname/
+</link>
+<pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/01/12/this-weekends-ddos-attack-and-whats-in-a-cname/
+</guid>
+<description>
+Your DNS Setup can have a great effect on performance and DDoS resilience. Early Saturday morning we got alerted by Rackspace that a major DDoS attack was hitting our main load balancer in their Chicago data center. The DDoS attack was a large, mostly UDP based, volumetric attack sending more than 40GB/s of sustained traffic and overwhelming the network switch in front of the balancer. Fortunately, the large majority of Netlify sites kept working without any interruption of service as our system automatically detected the attack and started routing traffic away from Rackspace&rsquo;s Chicago data center.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Assemble on Netlify</title>
+<link>
+https://www.netlify.com/blog/2016/01/11/a-step-by-step-guide-assemble-on-netlify/
+</link>
+<pubDate>Mon, 11 Jan 2016 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2016/01/11/a-step-by-step-guide-assemble-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a project built with Assemble on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have an Assemble site set up, you can skip straight to the Connecting to Netlify section. Installing Assemble This guide assumes you have Node.js installed. Since Assemble is a Grunt plugin, grunt must be installed first: $ npm install -g grunt-cli The -g flag will install Grunt globally on your system, which you need to make sure Grunt has access to the proper dependencies.
+</description>
+</item>
+<item>
+<title>Star Wars Gone Static</title>
+<link>
+https://www.netlify.com/blog/2015/12/16/star-wars-gone-static/
+</link>
+<pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/16/star-wars-gone-static/
+</guid>
+<description>
+** No spoilers contained. Really. We haven’t even seen it yet ** Sooo 4 billion (with a b) dollars seems like a steal these days. At least judging from the hype this first Disney instalment is getting. The Netlify servers are seeing plenty of disturbance in the force too! We thought we’d celebrate this 7th coming with a quick look at what’s happening on Netlify in terms of STAR WARS.
+</description>
+</item>
+<item>
+<title>GitHub Permissions</title>
+<link>https://www.netlify.com/docs/github-permissions/</link>
+<pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/github-permissions/</guid>
+<description>
+GitHub Permissions Netlify never stores GitHub Access Tokens. Once you authorize netlify, we fetch an Access Token from GitHub. But we never store this token. Netlify simply passes the token to our Javascript Single Page App, and from then on all communication with the GitHub API happens straight from the browser. After configuring continuous deployment, the token is permanently discarded. The only access netlify will have is through a deploy key installed in a specific repository.
+</description>
+</item>
+<item>
+<title>Prerendering</title>
+<link>https://www.netlify.com/docs/prerendering/</link>
+<pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/prerendering/</guid>
+<description>
+Prerendering for Single Page Apps If you&rsquo;re using a single page app for a site that&rsquo;s not behind a login, SEO is an important concern. Google, Bing, Yandex and other all support Google&rsquo;s standard for Ajax Crawling. Normally Google will penalize sites heavily for using &ldquo;Cloaking&rdquo;, ie. showing different content to Google than to normal web visitors, but for single page apps they have an exception. When detecting a single page app their crawler will send an _escaped_fragment_ query parameter in the request, and the origin server can then choose to return a document that represents the content a user will actually see when the single page app is running.
+</description>
+</item>
+<item>
+<title>SSL / HTTPS</title>
+<link>https://www.netlify.com/docs/ssl/</link>
+<pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/ssl/</guid>
+<description>
+HTTPS on Custom Domains Netlify offers free SSL on all plans with a simple one-click setup. HTTPS brings a lot of advantages: HTTP/2 Boost your sites performance — HTTP/2 only works when HTTPS is enabled SEO Google awards site that works with HTTPS enabled Analytics If your visitors comes from HTTPS enabled sites, you only get referrers if you support HTTPS as well. Content Integrity Without SSL, free Wi-fi services can inject ads into your pages.
+</description>
+</item>
+<item>
+<title>Versioning & Rollbacks</title>
+<link>
+https://www.netlify.com/docs/versioning-and-rollbacks/
+</link>
+<pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/docs/versioning-and-rollbacks/
+</guid>
+<description>
+Versioning and Rollbacks Netlify versions all deploys. From the &ldquo;Builds&rdquo; tab for your site in the netlify UI, you can browse any deploy you&rsquo;ve ever made and preview it from a unique URL. Atomic Deploys Netlify enforces a strict concept of atomic deploys. If you&rsquo;re used to uploading files with FTP, SSH, RSync or S3&rsquo;s API, this is quite a different concept. Instead of pushing individual files to netlify, you always create a new deploy.
+</description>
+</item>
+<item>
+<title>Webhooks</title>
+<link>https://www.netlify.com/docs/webhooks/</link>
+<pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/webhooks/</guid>
+<description>
+Webhooks Netlify supports both incoming and outgoing Webhooks. Incoming webhooks notify our servers to make something. Outgoing webhooks make another service to do something when events happen with your sites. Incoming webhooks The only supported action for incoming webhooks right now is to trigger new builds and deploys. You can find your incoming webhooks settings in the site page, right under the build environment settings. Set an appropriate tile that describes how the hook will be triggered, for instance &ldquo;Daily Cron Hook&rdquo; and save it.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Docpad on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-docpad-on-netlify/
+</link>
+<pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-docpad-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Docpad on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Docpad site set up, you can skip straight to the Connecting to netlify section. Installing Docpad This guide assumes you have Node.js installed. Open your terminal, and enter the following commands: $ npm install -g npm $ npm install -g docpad Let&rsquo;s get your workstation prepped.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: GitBook on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-gitbook-on-netlify/
+</link>
+<pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-gitbook-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a book built with Gitbook on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have GitBook set up, you can skip straight to the [Connecting to Netlify]({{ page.url }}#netlifystart) section. Installing Gitbook This guide assumes you have Node.js installed. Let&rsquo;s get your workstation prepped. First, use mkdir to create the gitbook directory where you&rsquo;ll be working:
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Metalsmith on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-metalsmith-on-netlify/
+</link>
+<pubDate>Tue, 08 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/08/a-step-by-step-guide-metalsmith-on-netlify/
+</guid>
+<description>
+Today I&rsquo;m writing about Metalsmith. Metalsmith is a fairly well known static site generator that bills itself as An extremely simple, pluggable static site generator. To me personally, that&rsquo;s indeed exactly how it felt, like working with a very customizable static site generator, for better or worse. It&rsquo;s in fact so customizable that it can imitate other static site generators and even has templates for this! But enough talk, let&rsquo;s get to the meat and bones.
+</description>
+</item>
+<item>
+<title>A Guide to Zapier Integration with Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/12/03/a-guide-to-zapier-integration-with-netlify/
+</link>
+<pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/03/a-guide-to-zapier-integration-with-netlify/
+</guid>
+<description>
+As you may have seen in yesterday&rsquo;s newsletter Netlify now has Zapier app in beta. It lets you integrate form submissions or deploy notifications from Netlify to hundreds of external services like MailChimp, Hipchat, Google Docs, etc,. What that means is that in a few easy steps you can set up the app to send you a notification whenever a new form is submitted, or a deploy is finished and pushed live.
+</description>
+</item>
+<item>
+<title>Netlify News No. 8</title>
+<link>
+https://www.netlify.com/blog/2015/12/02/netlify-news-no.-8/
+</link>
+<pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/12/02/netlify-news-no.-8/
+</guid>
+<description>
+Hi there. Hope you are having a great week. We&rsquo;ve got lot&rsquo;s of news, so we will get right to it! Zapier We just added Netlify to Zapier and would love for you to help test the beta. Zapier lets you integrate form submissions or deploy notifications from Netlify to hundreds of external services like MailChimp, Hipchat, Google Docs, etc,. In a few easy steps you can set up the app to send you a notification whenever a new form is submitted, or a deploy is finished and pushed live.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Ember on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/11/24/a-step-by-step-guide-ember-on-netlify/
+</link>
+<pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/24/a-step-by-step-guide-ember-on-netlify/
+</guid>
+<description>
+Today, we’re going to look at how to host a webapp built with Ember on Netlify, including setting up continuous deployment. Ember is a great framework for creating awesome applications. In fact, Netlify CMS is made with Ember. It has a huge ecosystem and a great asset pipeline out of the box as well, and we’re hosting tons of webapps using Ember on Netlify. Let&rsquo;s start from scratch. If you already have an Ember site set up, you can skip straight to the Connecting to Netlify section.
+</description>
+</item>
+<item>
+<title>JAMstack San Francisco Meetup</title>
+<link>
+https://www.netlify.com/blog/2015/11/16/jamstack-san-francisco-meetup/
+</link>
+<pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/16/jamstack-san-francisco-meetup/
+</guid>
+<description>
+Learn More on Meetup.com San Franciscos biggest JAMstack meetup. Great presenters that often include the authors of the biggest buildtools and site generators, like Webpack and Jekyll, and tons of others that all talk about Modern Web..
+</description>
+</item>
+<item>
+<title>NATS & Netlify Webcast</title>
+<link>
+https://www.netlify.com/blog/2015/11/16/nats--netlify-webcast/
+</link>
+<pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/16/nats--netlify-webcast/
+</guid>
+<description>
+Our head of infrastructure Ryan Neal, helped NATS with a webcast on how Netlify use NATS for our Microservices Data Control Plane.
+</description>
+</item>
+<item>
+<title>ReactCasts</title>
+<link>
+https://www.netlify.com/blog/2015/11/16/reactcasts/
+</link>
+<pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/16/reactcasts/
+</guid>
+<description>
+Watch them all on YouTube Our lead frontend developer, Cassio Zen wrote the book on react.js. Now he also started a Youtube channel for React tips and tricks.
+</description>
+</item>
+<item>
+<title>
+Smashing Magazine: Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo
+</title>
+<link>
+https://www.netlify.com/blog/2015/11/16/smashing-magazine-static-website-generators-reviewed-jekyll-middleman-roots-hugo/
+</link>
+<pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/16/smashing-magazine-static-website-generators-reviewed-jekyll-middleman-roots-hugo/
+</guid>
+<description>
+Read Full Article on Smashing Our CEO Matt Biilmann compares 5 modern site generators; Hugo, Jekyll, Middleman &amp; Roots.
+</description>
+</item>
+<item>
+<title>What is the JAMstack?</title>
+<link>
+https://www.netlify.com/blog/2015/11/16/what-is-the-jamstack/
+</link>
+<pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/16/what-is-the-jamstack/
+</guid>
+<description>
+Read More About the JAMstack If you are deploying to Netlify you are a JAMstack engineer. JAM (Javascript, APIs and Markup) is just a simple terminology around the new way of making web projects, where you don’t have to host your own backend that builds the site every time you serve it..
+</description>
+</item>
+<item>
+<title>
+A Step-by-Step Guide: Hosting Angular Apps on Netlify
+</title>
+<link>
+https://www.netlify.com/blog/2015/11/10/a-step-by-step-guide-hosting-angular-apps-on-netlify/
+</link>
+<pubDate>Tue, 10 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/10/a-step-by-step-guide-hosting-angular-apps-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host applications built with AngularJS on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have an AngularJS project set up, you can skip straight to the Connecting to Netlify section. Installing Angular This guide assumes you have Node.js installed. We&rsquo;ll be using a tool called Yeoman to build our project. Yeoman is a scaffolding tool that works in conjunction with a package manager (like NPM or Bower) and a build tool (like Grunt or Gulp) to create modern web apps.
+</description>
+</item>
+<item>
+<title>
+Smashing Magazine: Why Static Website Generators Are The Next Big Thing
+</title>
+<link>
+https://www.netlify.com/blog/2015/11/06/smashing-magazine-why-static-website-generators-are-the-next-big-thing/
+</link>
+<pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/06/smashing-magazine-why-static-website-generators-are-the-next-big-thing/
+</guid>
+<description>
+Read Full Article on Smashing Our CEO Matt Biilmann writes on why modern site generators will power the internet of tomorrow.
+</description>
+</item>
+<item>
+<title>SmashingConf San Francisco 2016</title>
+<link>
+https://www.netlify.com/blog/2015/11/06/smashingconf-san-francisco-2016/
+</link>
+<pubDate>Fri, 06 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/06/smashingconf-san-francisco-2016/
+</guid>
+<description>
+The emergence of Git centered workflows, around modern build tools, static site generators and modern browsers, has changed the way most front-enders work. Matt Biilmann covers how a new stack is emerging and how this is changing the way new web sites and web apps are beingbuilt. Read more on this topic: smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/ smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Wintersmith on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/11/05/a-step-by-step-guide-wintersmith-on-netlify/
+</link>
+<pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/05/a-step-by-step-guide-wintersmith-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Wintersmith on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Wintersmith site set up, you can skip straight to the Connecting to Netlify section. Installing Wintersmith This guide assumes you have Node.js installed. Open your terminal, and enter the following command: $ npm install -g wintersmith The -g flag will install Wintersmith globally on your system, which you need to make sure Wintersmith has access to the proper dependencies.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Hosting Exposé on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/11/02/a-step-by-step-guide-hosting-expos%C3%A9-on-netlify/
+</link>
+<pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/11/02/a-step-by-step-guide-hosting-expos%C3%A9-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a photo and video portfolio built with Exposé on Netlify, including setting up continuous deployment. Exposé is a Bash script that turns images and videos into a photoessay similar to jack.ventures or jack.works&ndash;the author&rsquo;s personal blogs. With a few simple tweaks, Exposé can work with Netlify to continually and consistently update your photo and video content. Installing Exposé Let&rsquo;s begin by creating your project directory.
+</description>
+</item>
+<item>
+<title>Control Your Post Processing</title>
+<link>
+https://www.netlify.com/blog/2015/10/31/control-your-post-processing/
+</link>
+<pubDate>Sat, 31 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/31/control-your-post-processing/
+</guid>
+<description>
+Now Netlify gives you detailed control over the post processing we do to your sites. Netlify does more post-processing than most hosting services. Gzipping, minifying javascript, setting content-addressable URL&rsquo;s etc. This is part of the reason that modern static sites on Netlify are so much faster. Not all post processing is always necessary however, so we&rsquo;re happy to announce that Netlify now gives you detailed control over the post processing we do to your sites.
+</description>
+</item>
+<item>
+<title>Domain Aliases–as Many as You Like</title>
+<link>
+https://www.netlify.com/blog/2015/10/30/domain-aliasesas-many-as-you-like/
+</link>
+<pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/30/domain-aliasesas-many-as-you-like/
+</guid>
+<description>
+With our new domain alias feature, you can easily point several domains or subdomain to the same site. Sometimes you have more than one domain that needs to resolve to the same website. Most other static hosts can only handle 1 domain per website, but with Netlify‘s new domain alias feature, you can easily point several domains or subdomains to the same site. Our flexible rewrite rules also means you can even handle different subdomains as folders within the same site.
+</description>
+</item>
+<item>
+<title>Netlify News No. 7</title>
+<link>
+https://www.netlify.com/blog/2015/10/29/netlify-news-no.-7/
+</link>
+<pubDate>Thu, 29 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/29/netlify-news-no.-7/
+</guid>
+<description>
+Hi there. Hope you are having a great week. We&rsquo;ve got lot&rsquo;s of big news, so we will get right to it! Prerendering If you’re using a single page app for a site that’s not behind a login, SEO is an important concern. Pre-rendering is the answer, and Netlify has supported external prerendering services like prerender.io for a while. Now we’re proud to announce that Netlify has this feature built-in!
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Jekyll (3.0) on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/
+</link>
+<pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a project built with Jekyll on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Jekyll site set up, you can skip straight to the Connecting to Netlify section. Installing Jekyll This guide assumes you have Ruby and RubyGems installed. Open your terminal, and enter the following command: $ gem install jekyll Jekyll will create a folder with all the necessary elements for your project:
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Brunch on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-brunch-on-netlify/
+</link>
+<pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-brunch-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Brunch on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Brunch site set up, you can skip straight to the Connecting to Netlify section. Installing Brunch This guide assumes you have Node.js installed. Open your terminal, and enter the following command: $ npm install -g brunch The -g flag will install Brunch globally on your system, which you need to make sure Brunch has access to the proper dependencies.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Hexo on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/
+</link>
+<pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Hexo on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Hero site set up, you can skip straight to the Connecting to Netlify section. Installing Hexo This guide assumes you have Node.js installed. Open your terminal, and enter the following command: $ npm install -g hexo-cli Hexo will create a directory for your project with this command:
+</description>
+</item>
+<item>
+<title>Introducing Smarter Redirects</title>
+<link>
+https://www.netlify.com/blog/2015/10/26/introducing-smarter-redirects/
+</link>
+<pubDate>Mon, 26 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/26/introducing-smarter-redirects/
+</guid>
+<description>
+We just made Netlify’s redirect engine smarter. Now redirect rules that would lead to a chain of subsequent redirects will always be flattened into one efficient redirect rule. Before if you had a site on www.example.com with a redirect from /blog to /news, with https enabled, then going to http://example.com/blog would trigger a chain of redirects: http://example.com/blog -&gt; https://example.com/blog -&gt; https://www.example.com/blog -&gt; https://www.example.com/news Now our redirect engine is smart enough to detect that chain and redirect straight from http://example.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Roots on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/22/a-step-by-step-guide-roots-on-netlify/
+</link>
+<pubDate>Thu, 22 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/22/a-step-by-step-guide-roots-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Roots on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Roots site set up, you can skip straight to the Connecting to Netlify section. Installing Roots This guide assumes you have Node.js installed. Open your terminal, and enter the following command: $ npm install roots -g The -g flag will install Roots globally on your system, which you need to make sure Roots has access to the proper dependencies.
+</description>
+</item>
+<item>
+<title>API</title>
+<link>https://www.netlify.com/docs/api/</link>
+<pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/api/</guid>
+<description>
+Netlify REST API Netlify is a hosting service for the programmable web. It understands your documents and provides an API to handle atomic deploys of websites, manage form submissions, inject javascript snippets, and much more. This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication. Making a request All URLs start with https://api.netlify.com/api/v1/. SSL only. The path is prefixed with the API version. If we change the API in backward-incompatible ways, we&rsquo;ll bump the version marker and maintain stable support for the old URLs.
+</description>
+</item>
+<item>
+<title>Command Line</title>
+<link>https://www.netlify.com/docs/cli/</link>
+<pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/cli/</guid>
+<description>
+Command Line Tools Netlify&rsquo;s command line tools let you deploy sites or configure continuous deployment straight from the command line. Installation You&rsquo;ll need npm, the node package manager, to install the Netlify cli: npm install netlify-cli -g Manual Deploy netlify deploy The netlify deploy command will deploy a site, whether it&rsquo;s a new site or an existing site. The first time you deploy, a new site will be created and netlify will prompt for the path to deploy.
+</description>
+</item>
+<item>
+<title>Netlify News No. 6</title>
+<link>
+https://www.netlify.com/blog/2015/10/20/netlify-news-no.-6/
+</link>
+<pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/20/netlify-news-no.-6/
+</guid>
+<description>
+Hi Everyone Hope you’re having a great week. We&rsquo;ll get right to it. HTTP2.0 As one of the very first CDNs to roll this out to all clients Netlify CDN now supports HTTP 2.0 out of the box!! HTTP2 is enabled for all sites using HTTPS. New CDN Points of Presence At Netlify we have a multi layered CDN strategy: all assets, JavaScript, images, CSS, font files, etc., we serve out of Akamais CDN.
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Pelican on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/15/a-step-by-step-guide-pelican-on-netlify/
+</link>
+<pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/15/a-step-by-step-guide-pelican-on-netlify/
+</guid>
+<description>
+Today, we&rsquo;re going to look at how to host a website built with Pelican on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Pelican site set up, you can skip straight to the Preparing for deployment or Connecting to Netlify sections. Installing Pelican This guide assumes you have Python installed. Open your terminal, and enter the following command: $ pip install virtualenv Installing virtualenv will allow you to easily control all the dependencies needed for your project (or any Python project).
+</description>
+</item>
+<item>
+<title>A Step-by-Step Guide: Middleman on Netlify</title>
+<link>
+https://www.netlify.com/blog/2015/10/01/a-step-by-step-guide-middleman-on-netlify/
+</link>
+<pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/10/01/a-step-by-step-guide-middleman-on-netlify/
+</guid>
+<description>
+Today, let&rsquo;s take a look at how to host Middleman on Netlify, including setting up continuous deployment. Let&rsquo;s start from scratch. If you already have a Middleman site set up, you can skip straight to the Connecting to Netlify section. Installing Middleman This guide assumes you have Ruby and RubyGems installed. Open your terminal, and enter the following commands: gem install middleman middleman init my-site Once everything is installed, it&rsquo;s time to push it to your repo of choice.
+</description>
+</item>
+<item>
+<title>Our Fifth Newsletter</title>
+<link>
+https://www.netlify.com/blog/2015/09/22/our-fifth-newsletter/
+</link>
+<pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/09/22/our-fifth-newsletter/
+</guid>
+<description>
+Hi Everyone! Hope you’re having a great week. We’re super stoked to present brand new plans and prices! Up until now our continuous deployment services have been available as a separate service. But CD is an integral part of what Netlify is. Just as much as our speed, multilayered CDN and instant cache invalidation is. As such it doesn’t make a lot of sense to separate it into it’s own service.
+</description>
+</item>
+<item>
+<title>Continuous Deployment</title>
+<link>
+https://www.netlify.com/blog/2015/09/17/continuous-deployment/
+</link>
+<pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/09/17/continuous-deployment/
+</guid>
+<description>
+Continuous Deployment is one of the key features that sets Netlify apart. With all other hosting services you need to build this yourself or pay for and install 3rd party software. What is it? Basically it means that we build, configure and deploy your site every time you push to git (be it a self-hosted repo, GitLabs, Bitbucket or of course GitHub). So you don’t have to do anything manually.
+</description>
+</item>
+<item>
+<title>Instant Cache Invalidation</title>
+<link>
+https://www.netlify.com/blog/2015/09/11/instant-cache-invalidation/
+</link>
+<pubDate>Fri, 11 Sep 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/09/11/instant-cache-invalidation/
+</guid>
+<description>
+&ldquo;There are only two hard problems in Computer Science: Cache Invalidation and naming things.&rdquo; – Phil Karlton While we’d rate our ability to name things to be fairly average, Instant Cache Invalidation is definitely part of Netlify’s rocketjuice. Here is a bit about what it actually means, and why it’s important. See what I did there?.. Cache Invalidation One of the spectacularly good reasons for making a modern static website instead of a traditional dynamic site, is that a modern static site can be hosted exclusively on a CDN (Content Delivery Network).
+</description>
+</item>
+<item>
+<title>Netlify News No. 4</title>
+<link>
+https://www.netlify.com/blog/2015/09/08/netlify-news-no.-4/
+</link>
+<pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/09/08/netlify-news-no.-4/
+</guid>
+<description>
+Hi Everyone Welcome to our fourth newsletter. Hope you’ve all been enjoying summer. We’ve been keeping real busy. Lot’s of stuff going on. Working on our CMS. It will support all (!!) static site generators, no matter what programming language they’re written in. We can’t wait to open-source it! Our hosting service had tons of work done under the hood as well. Here is a selection of what’s new!
+</description>
+</item>
+<item>
+<title>
+A Great, Fast Static E-Commerce Experience with 6 Easy Tools
+</title>
+<link>
+https://www.netlify.com/blog/2015/08/25/a-great-fast-static-e-commerce-experience-with-6-easy-tools/
+</link>
+<pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/08/25/a-great-fast-static-e-commerce-experience-with-6-easy-tools/
+</guid>
+<description>
+Charles is a co-founder and lead engineer at Snipcart, a solution empowering developers to turn any website into a customizable e-commerce platform. He likes code, scotch, and colourful socks. You can follow him on Twitter. The popularity of developer-oriented flat-file CMS and static site generators has been rocketing for the last two or three years. A growing, dynamic (see what I did there?) community of developers is embracing the static movement.
+</description>
+</item>
+<item>
+<title>Simple Responsive Images with Jekyll</title>
+<link>
+https://www.netlify.com/blog/2015/08/20/simple-responsive-images-with-jekyll/
+</link>
+<pubDate>Thu, 20 Aug 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/08/20/simple-responsive-images-with-jekyll/
+</guid>
+<description>
+Jekyll Srcset is a small plugin for Jekyll that may solve your most important responsive image needs, without making things ridiculously complicated. Here&rsquo;s how you would use it in a Liquid template: {%raw%}{% image_tag src=page.thumbnail width=&quot;200&quot; %}{%endraw%} With a page with cover image /thumb.jpg with the dimensions 500x500, this will output the following img tag and generate all the needed image variations: &lt;img src=&quot;/thumb-200x200.jpg&quot; srcset=&quot;/thumb-200x200.jpg 1x, /thumb-400x400.jpg 2x, /thumb-500x500.jpg 3x&quot;&gt; Managing images in a responsive design is something that can reach almost any level of complexity, when you&rsquo;re managing different devices, aspect rations, art direction based on breakpoints and varying pixel densities.
+</description>
+</item>
+<item>
+<title>Continuous Deployment</title>
+<link>
+https://www.netlify.com/docs/continuous-deployment/
+</link>
+<pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/docs/continuous-deployment/
+</guid>
+<description>
+Continuous Deployment Continuous deployment works by connecting a git repository to a Netlify site and keeping the two in sync. It works for plain static sites, but it&rsquo;s even more powerful when you&rsquo;re using a static site generator or a front end build tool like Grunt, Gulp or Broccoli. Netlify will run your build command and deploy the result whenever you push to your git repo. No deploying without committing and pushing first Easy collaboration through pull requests Fix a typo through your git provider&rsquo;s web UI from your mobile Edit content without code by using a static site CMS, NetlifyCMS Deploy Contexts Deploy contexts are a way to tell Netlify how to build your site.
+</description>
+</item>
+<item>
+<title>Hosting Hugo on Netlify–Insanely Fast Deploys</title>
+<link>
+https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/
+</link>
+<pubDate>Thu, 30 Jul 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/
+</guid>
+<description>
+There are those who describe Netlify as “GitHub Pages on Steroids”. If that’s the case then Hugo on Netlify must be digging into Lance Armstrong&rsquo;s stash. Starting today you can easily run Hugo based builds with Netlify. Use hugo as your build command to run the latest version of Hugo, or use hugo_0.14 to run your build with a specific version of Hugo. Killer Performance Hugo is a really exciting static site generator written in Go.
+</description>
+</item>
+<item>
+<title>Headers & Basic Authentication</title>
+<link>
+https://www.netlify.com/docs/headers-and-basic-auth/
+</link>
+<pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/docs/headers-and-basic-auth/
+</guid>
+<description>
+Headers and Basic Authentication You can configure custom headers and basic auth for your Netlify site by adding a _headers file to the root of your site folder. Note that if you&rsquo;re running a build command or site generator, the _headers file should end up in the folder you&rsquo;re deploying. Some generators, like Jekyll, may also require additional configuration to avoid exclusion of files that begin with _. (For Jekyll, this requires adding an include parameter to _config.
+</description>
+</item>
+<item>
+<title>Password</title>
+<link>https://www.netlify.com/docs/password-protection/</link>
+<pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/password-protection/</guid>
+<description>
+Password Protecting Sites This feature is available on our Paid plans. If you&rsquo;re using netlify for staging sites or deploying mockups that you want to share with customers, netlify&rsquo;s built-in password protection can come in handy. Go to the settings screen for your site and click &ldquo;Edit&rdquo; next to the &ldquo;Privacy&rdquo; setting. Then enter your password of choice. If you need multiple passwords for a site, or need to protect just part of your site, you can setup Basic-Auth via netlify&rsquo;s custom HTTP header support.
+</description>
+</item>
+<item>
+<title>Custom Domains</title>
+<link>https://www.netlify.com/docs/custom-domains/</link>
+<pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/custom-domains/</guid>
+<description>
+Using a custom domain You can easily use your own domain for a Netlify site. Assigning the domain First, you need to assign the domain to the site you want us to show. You can do this through the web UI by clicking &ldquo;Set up domain&rdquo; when viewing your site settings. You can also assign domains through the CLI tool with the netlify update command. We highly recommend using a www domain instead of an apex domain (ie.
+</description>
+</item>
+<item>
+<title>Netlify News No. 3</title>
+<link>
+https://www.netlify.com/blog/2015/06/02/netlify-news-no.-3/
+</link>
+<pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/06/02/netlify-news-no.-3/
+</guid>
+<description>
+Hi everyone Summer is here (or should be) and we’re celebrating that with a quick recap of what’s new at Netlify, the premium hosting service for modern static websites. Form handling First of all we’ve added built-in form handling as you may have known it from Bitballoon. Just add a &ldquo;netlify&rdquo; attribute to any HTML form and we&rsquo;ll start processing it. You can setup email, slack or webhook notifications from the admin panel!
+</description>
+</item>
+<item>
+<title>
+Twickr—Send Tweets of Interest from Twitter to Slack
+</title>
+<link>
+https://www.netlify.com/blog/2015/04/12/twickrsend-tweets-of-interest-from-twitter-to-slack/
+</link>
+<pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/04/12/twickrsend-tweets-of-interest-from-twitter-to-slack/
+</guid>
+<description>
+Twickr is a small tool we&rsquo;re using @netlify to get tweets of interest delivered to our Slack. For us Slack has turned into a sort of command center, where we process support requests, discuss features, share drafts of mails or blog posts, get operational status messages and alerts. Like most other startups we have a few stored twitter searches we tend to run all the time, to keep up with all that&rsquo;s going on in our field.
+</description>
+</item>
+<item>
+<title>Netlify News No. 2</title>
+<link>
+https://www.netlify.com/blog/2015/04/07/netlify-news-no.-2/
+</link>
+<pubDate>Tue, 07 Apr 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/04/07/netlify-news-no.-2/
+</guid>
+<description>
+Woohoo! We’ve launched Netlify.com and are now live, both with hosting of static sites and apps (as you knew it from bitballoon.com) and our continuous deployment service. We want to thank our beta-testers for all their help! And thanks so much to everyone who has already signed on. We are getting raving feedback, and are really excited to see our work put to such good use as well. It sure seems like we’re on to something :)
+</description>
+</item>
+<item>
+<title>Netlify vs Amazon S3</title>
+<link>
+https://www.netlify.com/blog/2015/03/06/netlify-vs-amazon-s3/
+</link>
+<pubDate>Fri, 06 Mar 2015 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2015/03/06/netlify-vs-amazon-s3/
+</guid>
+<description>
+How do Amazon S3 and Netlify compare as static site hosting platforms Today pretty much every front-end developer is familiar with Amazon&rsquo;s amazing Simple Storage Service, or S3. Some use it for hosting their front-end projects, so I thought I would take the opportunity to do a proper writeup about the differences between Netlify&rsquo;s static hosting service and S3. In short: S3 manages files. Netlify manages sites. Level of Abstraction S3, as it&rsquo;s name implies, is a low-level utility.
+</description>
+</item>
+<item>
+<title>Five Reasons You Want HTTPS for Your Static Site</title>
+<link>
+https://www.netlify.com/blog/2014/10/03/five-reasons-you-want-https-for-your-static-site/
+</link>
+<pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/blog/2014/10/03/five-reasons-you-want-https-for-your-static-site/
+</guid>
+<description>
+For information on how to setup SSL / HTTPS on Netlify, please click here &ldquo;Does HTTPS really make any sense for a static web site?&rdquo; We&rsquo;ve heard this a couple of times when talking about Netlify&rsquo;s HTTPS support. It might seem like a static site is already plenty secure: there&rsquo;s no moving parts, no risk of SQL injection, no openings for XSS attacks, no cookies to hijack, no personalized data sent over the wire, etc, etc, etc&hellip;
+</description>
+</item>
+<item>
+<title>AWS</title>
+<link>https://www.netlify.com/aws-vs-netlify/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/aws-vs-netlify/</guid>
+<description>
+| | ![AWS](/img/comparisons/aws/aws-logo.svg) | ![Netlify](/img/press/logos/full-logo-light.svg) | |----------------------------|:-------------------------------------:|:------------------------------------------------:| | Custom Domain | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | SSL | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | Atomic Deploys | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Instant Cache Invalidation | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Deploy Previews | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Prerendering Support | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Git Branch Deploys | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Asset Optimizations | ![No](/img/comparisons/delete.svg) | !
+</description>
+</item>
+<item>
+<title>About</title>
+<link>https://www.netlify.com/about/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/about/</guid>
+<description/>
+</item>
+<item>
+<title>Blog</title>
+<link>https://www.netlify.com/blogs/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/blogs/</guid>
+<description/>
+</item>
+<item>
+<title>DMCA Takedown Policy</title>
+<link>https://www.netlify.com/dmca/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/dmca/</guid>
+<description>
+# DMCA Takedown Policy Welcome to Netlify's Guide to the Digital Millennium Copyright Act, commonly known as the "DMCA." This page is as an overview of the statute, and should not be considered as comprehensive. However, if you've received a DMCA takedown notice targeting a site you have hosted on Netlify or if you're a rights-holder looking to issue such a notice, this page will hopefully help to lay out our policies for complying with it.
+</description>
+</item>
+<item>
+<title>Deploy button</title>
+<link>https://www.netlify.com/docs/deploy-button/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/deploy-button/</guid>
+<description>
+The &ldquo;Deploy to Netlify&rdquo; button helps users deploy new sites from templates with one single click. It provides web developers to a simple one-click step to let their users deploy those applications on Netlify. It&rsquo;s designed to be used in README files, documentation sites, and probably anything that renders as an html file. This is an example of how it looks: Markup You can use any markup language that renders as HTML to display the button.
+</description>
+</item>
+<item>
+<title>Education</title>
+<link>https://www.netlify.com/education/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/education/</guid>
+<description/>
+</item>
+<item>
+<title>Enterprise</title>
+<link>https://www.netlify.com/enterprise/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/enterprise/</guid>
+<description/>
+</item>
+<item>
+<title>Features</title>
+<link>https://www.netlify.com/features/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/features/</guid>
+<description/>
+</item>
+<item>
+<title>Firebase</title>
+<link>https://www.netlify.com/firebase-vs-netlify/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/firebase-vs-netlify/</guid>
+<description>
+| | ![Firebase](/img/comparisons/firebase/firebase-logo.svg) | ![Netlify](/img/press/logos/full-logo-light.svg) | |----------------------------|:-----------------------------------------------:|:------------------------------------------------:| | Free plan | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | Custom Domain | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | SSL | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | Instant Cache Invalidation | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Deploy Previews | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Deep Git Integration | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Prerendering Support | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Asset Optimizations | ![No](/img/comparisons/delete.svg) | !
+</description>
+</item>
+<item>
+<title>GitHub Pages</title>
+<link>https://www.netlify.com/github-pages-vs-netlify/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/github-pages-vs-netlify/</guid>
+<description>
+| | ![GitHub Pages](/img/comparisons/gh-pages/gh-pages-logo.svg) | ![Netlify](/img/press/logos/full-logo-light.svg) | |:--------------:|:---------------------------------------------------:|:---------------------------------------------------------:| | Price | Free | Free | | Build Limits | 10 Builds per hour | 3 Builds per minute | | Custom Domain | ![Yes](/img/comparisons/check.svg) | ![Yes](/img/comparisons/check.svg) | | SSL for Custom Domains | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | 1-click Rollbacks | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Asset Optimizations | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Form Handling | ![No](/img/comparisons/delete.svg) | ![Yes](/img/comparisons/check.svg) | | Deploy Previews | !
+</description>
+</item>
+<item>
+<title>Guide to Submitting a DMCA Counter Notice</title>
+<link>https://www.netlify.com/dmca-counter/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/dmca-counter/</guid>
+<description>
+# Guide to Submitting a DMCA Counter Notice This guide describes the information that Netlify needs in order to process a counter notice to a DMCA takedown request. If you have more general questions about what the DMCA is or how Netlify processes DMCA takedown requests, please review our [DMCA Takedown Policy](/dmca.html). If you believe your content on Netlify was mistakenly disabled by a DMCA takedown request, you have the right to contest the takedown by submitting a counter notice.
+</description>
+</item>
+<item>
+<title>Guide to Submitting a DMCA Takedown Notice</title>
+<link>https://www.netlify.com/dmca-submit/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/dmca-submit/</guid>
+<description>
+# Guide to Submitting a DMCA Takedown Notice This guide describes the information that Netlify needs in order to process a DMCA takedown request. If you have more general questions about what the DMCA is or how Netlify processes DMCA takedown requests, please review our DMCA Takedown Policy. Netlify needs complaints to be as specific as possible. These guidelines are designed to make the processing of alleged infringement notices as straightforward as possible.
+</description>
+</item>
+<item>
+<title>Locked deploys</title>
+<link>https://www.netlify.com/docs/locked-deploys/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/locked-deploys/</guid>
+<description>
+Locked deploys give you the ability of pinning a site to the latest published deploy for the time being. New deploys won&rsquo;t be published to the main site, although Netlify will still build them and they will be ready for whenever you want to publish them. How to lock a published deploy You can access this feature in your sites&rsquo; deploys listing. The latest published deploy has a button to lock the site to that specific deploy.
+</description>
+</item>
+<item>
+<title>Manual Deploys</title>
+<link>https://www.netlify.com/docs/manual-deploys/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/manual-deploys/</guid>
+<description>
+Drag &amp; Drop Deploys can be triggered by dragging a project folder to a deploy dropzone located on at the bottom of the deploys and dashboard page. Rolling Back Versions Any previous deploy can be selected as the live version of your site in production using the &ldquo;Publish Deploy&rdquo; button on the Deploys Page. *If you have git integration connected with Netlify, any new changes to the git repository will overwrite any previously rolled back version.
+</description>
+</item>
+<item>
+<title>
+Netlify: All-in-one platform for automating modern web projects
+</title>
+<link>https://www.netlify.com/home/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/home/</guid>
+<description/>
+</item>
+<item>
+<title>New Pricing FAQ</title>
+<link>https://www.netlify.com/docs/new-pricing-faq/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/new-pricing-faq/</guid>
+<description>
+Overview With the announcement of our new pricing and features, existing customers may have some questions about their sites. We’re attempting to anticipate and answer those questions here, but if you don’t see what you’re looking for, please contact support via the in-app chat widget (we will return your message later via email if we&rsquo;re not available) or by email to support@netlify.com. Legacy Site Handling How does this change affect existing sites?
+</description>
+</item>
+<item>
+<title>Open Source</title>
+<link>https://www.netlify.com/open-source/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/open-source/</guid>
+<description/>
+</item>
+<item>
+<title>Plans and Pricing</title>
+<link>https://www.netlify.com/pricing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/pricing/</guid>
+<description/>
+</item>
+<item>
+<title>Press</title>
+<link>https://www.netlify.com/press/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/press/</guid>
+<description/>
+</item>
+<item>
+<title>Privacy Policy</title>
+<link>https://www.netlify.com/privacy/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/privacy/</guid>
+<description>
+# Privacy Policy Netlify takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy. By using Netlify including services available at the Netlify.com domains, you are using a service provided by Netlify. (the “Service”) and you agree to be bound by the Terms of Service and this Privacy Policy.
+</description>
+</item>
+<item>
+<title>PubStorm and Netlify</title>
+<link>https://www.netlify.com/docs/pubstorm/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/pubstorm/</guid>
+<description>
+Netlify is quite similar to PubStorm, but there are some things that are different. Terminology On PubStorm, you had one or more Projects; on Netlify you&rsquo;ll have one or more Sites. To use PubStorm, you worked completely from the command line, and you can do the same on Netlify - but some things are configurable most easily in our UI though you can also use our API. Your account is tied to your email address, and an account may own any number of sites.
+</description>
+</item>
+<item>
+<title>Redirect & Rewrite rules</title>
+<link>https://www.netlify.com/docs/redirects/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/redirects/</guid>
+<description>
+You can configure redirects and rewrite rules for your Netlify site by adding a _redirects file to the root of your site folder. Note that if you&rsquo;re running a build command or site generator, the _redirects file should end up in the folder you&rsquo;re deploying. Some generators, like Jekyll, may also require additional configuration to avoid exclusion of files that begin with _. (For Jekyll, this requires adding an include parameter to _config.
+</description>
+</item>
+<item>
+<title>Site Policy</title>
+<link>https://www.netlify.com/docs/site-policy/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/site-policy/</guid>
+<description>
+Site Policy Netlify complies with the Digital Millenium Copyright Act (DMCA). For more information, visit the links below. DCMA Takedown Policy How to Submit a DMCA Notice How to Submit a DMCA Counter Notice
+</description>
+</item>
+<item>
+<title>Snippet Injection</title>
+<link>
+https://www.netlify.com/docs/inject-analytics-snippets/
+</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/docs/inject-analytics-snippets/
+</guid>
+<description>
+Injecting Analytics Snippets Often you want to inject JavaScript snippets into all pages of your site, either in the &lt;head&gt; or at the end of the &lt;body&gt; tag. Most analytics providers, retargeting services or A/B testing services will give you an HTML snippet and ask you to add it to every page on your site. Netlify lets you do this without having to pollute the source code for the site with production specific analytics snippets.
+</description>
+</item>
+<item>
+<title>Split Testing</title>
+<link>https://www.netlify.com/docs/split-testing/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/split-testing/</guid>
+<description>
+Netlify’s Split Testing lets you divide traffic to your site between different deploys, straight from our CDN network, without losing any download performance, and without installing any third party JavaScript library. You can use any analytics library to track visitors across different versions of your site. Branch Split Testing Branch Split Testing divides traffic to your site between two or more deployed Git branches. To leverage this feature, you need to use our Continuous Delivery pipeline, and our Branch Deploys.
+</description>
+</item>
+<item>
+<title>Status Pages</title>
+<link>https://www.netlify.com/status-pages/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/status-pages/</guid>
+<description>
+## Netlify Status Kit Maintaining the status of API's can be challenging, which is why we created the Netlify Status Kit. This template is free to use and a non obstrusive addition to any developer's workflow or technology stack. It only needs a few clicks to set up and deploy.
+</description>
+</item>
+<item>
+<title>Support</title>
+<link>https://www.netlify.com/support/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/support/</guid>
+<description/>
+</item>
+<item>
+<title>Teams</title>
+<link>https://www.netlify.com/docs/teams/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/teams/</guid>
+<description>
+You can collaborate on multiple sites with the same group of people by adding sites to a team. This feature is available for free at the Bronze level, or you can upgrade a team to a higher plan for greater control over site administration and visitor access, along with premium-level Continuous Deployment and priority support. (Check our pricing page for details.) Create a team To create a new team, click the user/team dropdown in the upper left corner of the app.
+</description>
+</item>
+<item>
+<title>Terms of Service</title>
+<link>https://www.netlify.com/tos/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/tos/</guid>
+<description>
+# Terms of Service Agreement You (the “User”), by using, accessing, or attempting to interact with, Netlify, or other Netlify software, services, websites, or any of their licensees services or software (collectively “Services”), agree to be bound and abide by the terms and conditions of this Agreement with Netlify. ## Overview 1. You agree that the Services, which includes all software and documentation, both electronic or printed media, contain copyrighted material, trade secrets, patent pending material, and other proprietary intellectual property.
+</description>
+</item>
+<item>
+<title>Thank you</title>
+<link>https://www.netlify.com/thanks-for-reaching-out/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/thanks-for-reaching-out/</guid>
+<description/>
+</item>
+<item>
+<title>Thank you</title>
+<link>https://www.netlify.com/thanks-for-signing-up/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/thanks-for-signing-up/</guid>
+<description/>
+</item>
+<item>
+<title>Visitor access control</title>
+<link>
+https://www.netlify.com/docs/visitor-access-control/
+</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>
+https://www.netlify.com/docs/visitor-access-control/
+</guid>
+<description>
+Netlify provides two mechanisms to restrict access to your site. These features are available in our Paid plans. Password Protection Netlify&rsquo;s password protection blocks complete access to your site to visitors without a password. To set this global password, go to the Access section in your site&rsquo;s dashboard and click the Set Password button. After settings this password, all access to your site will be blocked unless a visitor knows the password you set.
+</description>
+</item>
+<item>
+<title>Welcome</title>
+<link>https://www.netlify.com/docs/welcome/</link>
+<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+<guid>https://www.netlify.com/docs/welcome/</guid>
+<description>
+Quickstart Deploying a new site with Netlify is so simple it fits in a tweet: npm install netlify-cli -g ; cd ~/my-static-website ; netlify deploy This is all you need to deploy a static site folder, but Netlify can do much more for you. Continuous Deployment For anything larger than a one page landing, you really should be using a static site generator or a front-end build tool like grunt or gulp.
+</description>
+</item>
+</channel>
+</rss>
